@@ -38,12 +38,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"categories": [
-				"电影",
-				"连续剧",
-				"综艺",
-				"动漫"
-			]
+			"categories": ["电影","连续剧","综艺","动漫"]
 		},
 		{
 			"key": "阿里云盘网",
@@ -145,15 +140,6 @@
 			"ext": "./js/douban.js"
 		},
 		{
-			"key": "本地",
-			"name": "💻本地视频",
-			"type": 3,
-			"api": "csp_Local",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-		},
-		{
 			"key": "爱奇异",
 			"name": "🥝爱奇艺(官)",
 			"type": 3,
@@ -221,15 +207,6 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"ext": "./py/py_cctv.py"
-		},
-		{
-			"key": "csp_WoGG",
-			"name": "👽玩偶哥哥",
-			"type": 3,
-			"api": "csp_WoGG",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "速映",
@@ -729,36 +706,6 @@
 			"ext": "./sub/ffzy.json"
 		},
 		{
-			"key": "喜马拉雅",
-			"name": "👂喜马拉雅",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./js/ximalaya.js"
-		},
-		{
-			"key": "有声小说吧",
-			"name": "👂有声小说吧",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/youshengxiaoshuoba.json"
-		},
-		{
-			"key": "海洋听书",
-			"name": "👂海洋听书",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "./js/haiyangtingshu.js"
-		},
-		{
 			"key": "csp_Dm84",
 			"name": "🚌动漫巴士",
 			"type": 3,
@@ -834,16 +781,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "找资源",
-			"name": "🖥找资源",
-			"type": 3,
-			"api": "csp_Zhaozy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "null$$$yunshuche$$$11223344"
-		},
-		{
 			"key": "网盘搜索",
 			"name": "🖥网盘搜索",
 			"type": 3,
@@ -901,15 +838,6 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_NiNi",
-			"name": "👑泥巴(墙外)",
-			"type": 3,
-			"api": "csp_NiNi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "兔小贝",
 			"name": "🐰兔小贝",
 			"type": 3,
@@ -918,188 +846,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "./js/tuxiaobei.js"
-		},
-		{
-			"key": "高中教育",
-			"name": "📚学习园地",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/Blixt.json"
-		},
-		{
-			"key": "学外语",
-			"name": "📚学外语",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/waiyu.json"
-		},
-		{
-			"key": "软件教程",
-			"name": "📚软件教程",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/jiaocheng.json"
-		},
-		{
-			"key": "哔哩哔哩",
-			"name": "🅱️哔哩哔哩",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/Bili.json"
-		},
-		{
-			"key": "相声小品",
-			"name": "🏮相声小品",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/Blixs.json"
-		},
-		{
-			"key": "戏 曲",
-			"name": "🎈国粹戏曲",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/Blixq.json"
-		},
-		{
-			"key": "歌曲MV",
-			"name": "📺歌曲MV",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/gequ.txt"
-		},
-		{
-			"key": "女团热舞",
-			"name": "💃女团热舞",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./sub/nvtuanrewu.json"
-		},
-		{
-			"key": "演唱会",
-			"name": "🎸演唱会",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/yanchanghui.txt"
-		},
-		{
-			"key": "csp_XBPQ_短视频",
-			"name": "☘️短视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./sub/duanshipin.json"
-		},
-		{
-			"key": "88看球",
-			"name": "⚽88看球",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./js/88kanqiu.js"
-		},
-		{
-			"key": "JRKAN直播",
-			"name": "⚽JRKAN直播",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./sub/jrkan.json"
-		},
-		{
-			"key": "虎牙直播",
-			"name": "🐯虎牙直播",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./js/huyazhibo.js"
-		},
-		{
-			"key": "csp_Yj1211",
-			"name": "📽️在线直播",
-			"type": 3,
-			"api": "csp_Yj1211",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1
-		},
-		{
-			"key": "哔哩直播",
-			"name": "🅱️哔哩直播",
-			"type": 3,
-			"api": "./js/lib/drpy2.min.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./js/blzb.js"
-		},
-		{
-			"key": "csp_XYQBiu_斗鱼",
-			"name": "🐬斗鱼直播",
-			"type": 3,
-			"api": "csp_XYQBiu",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "./sub/douyu.json"
-		},
-		{
-			"key": "csp_xpath_kuqimv",
-			"name": "🎤酷奇MV",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/kuqimv.json"
-		},
-		{
-			"key": "csp_xpath_A33",
-			"name": "🎸MTV",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./sub/mtv.json"
 		}
 	],
-	"spider": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5; 3A017244A8B8691E10152BBCA9C4DE6F",
+        "spider": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/0606.jar;md5; 3A017244A8B8691E10152BBCA9C4DE6F",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 			"name": "live",
