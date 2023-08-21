@@ -1,7 +1,7 @@
 {
 	"storeHouse": [{
 			"sourceName": "CP多仓",
-			"sourceUrl": "https://raw.githubusercontent.com/mcp2016/TVBox/main/urls.json"
+			"sourceUrl": "https://mcp2016.github.io/TVBox/house.json"
 		}
 	]
 }
