@@ -1,16 +1,16 @@
 {
 	"urls": [{
-		"url": "https://mcp2016.github.io/TVBox/pj.json",
+		"url": "https://pan.shangui.cc/f/yPVZIK/pj.json",
 		"name": "🦅鹏九"
 	}, {
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json",
-		"name": "🎥影探"
+		"url": "http://yydsys.top/duo",
+		"name": "🏡应用多多家庭版"
 	}, {
 		"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
 		"name": "🌕月光宝盒"
 	}, {
-		"url": "http://yydsys.top/duo",
-		"name": "🏡应用多多家庭版"
+		"url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json",
+		"name": "🎥影探"
 	}, {
 		"url": "http://yydsys.top/duo/ali",
 		"name": "🚀阿里精品专线"
@@ -38,8 +38,5 @@
 	}, {
 		"url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
 		"name": "🦆胖鸭线路"
-	}, {
-		"url": "https://ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/%E5%84%BF%E7%AB%A5.json",
-		"name": "🧒儿童专线"
 	}]
 }
