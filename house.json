@@ -1,6 +1,43 @@
 {
 	"storeHouse": [{
-		"sourceName": "CP多仓",
-		"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
-	}]
+			"sourceName": "CP多仓",
+			"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
+		},
+		{
+			"sourceName": "💚多多优选仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt"
+		},
+		{
+			"sourceName": "💛多多公众仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/b.txt"
+		},
+		{
+			"sourceName": "❤️多多聚合仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/c.txt"
+		},
+		{
+			"sourceName": "💜多多预备仓",
+			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt"
+		},
+		{
+			"sourceName": "🌹欧歌主仓库🌹",
+			"sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
+		},
+		{
+			"sourceName": "🌷欧歌备仓库🌷",
+			"sourceUrl": "http://m.nxog.top/nxog/ou1.php?url=http://m.nxog.top&b=欧歌"
+		},
+		{
+			"sourceName": "💐欧歌测试仓库💐",
+			"sourceUrl": "http://w.nxog.top/nxog/ou1.php?url=http://w.nxog.top&xl=2&b=欧歌"
+		},
+		{
+			"sourceName": "吾爱有三日月与卿",
+			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
+		},
+		{
+			"sourceName": "shop多仓",
+			"sourceUrl": "http://xxxoo.shop/ku.txt"
+		}
+	]
 }
