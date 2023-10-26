@@ -1,6 +1,6 @@
 {
 	"urls": [{
-		"url": "https://pan.shangui.cc/f/yPVZIK/pj.json",
+		"url": "https://mcp2016.github.io/TVBox/pj.json",
 		"name": "🦅鹏九"
 	}, {
 		"url": "http://yydsys.top/duo",
@@ -38,11 +38,5 @@
 	}, {
 		"url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
 		"name": "🦆胖鸭线路"
-	}, {
-		"url": "http://xxxoo.shop", 
-		"name": "接口xxxoo.shop" 
-	}, { 
-		"url": "https://www.yingm.cc/dm/dm.json", 
-		"name": "动漫频道" 
 	}]
 }
