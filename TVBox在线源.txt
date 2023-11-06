@@ -56,6 +56,9 @@ https://leezn.eu.org/TVBox/js.json
 https://la.kstore.space/download/3376/001.txt
 https://la.kstore.space/download/3376/xpg.txt
 https://la.kstore.space/download/3376/fns.txt
+https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+http://pandown.pro/tvbox/tvbox.json
+https://dxawi.github.io/0/0.json
 
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
