@@ -1,7 +1,8 @@
 {
+	"spider": "https://jihulab.com/duomv/xduo/-/raw/main/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
 	//"spider": "http://xhww.fun:63/小米/0802.jar;md5;538304754b268f733245e29504f03254",
 	//"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E0C92F27999DD969A31709E7561A7EEA",
-	"spider": "http://tt.58cxz.com/video/jar/fm0803.jar",
+	//"spider": "http://tt.58cxz.com/video/jar/fm0803.jar",
 	"wallpaper": "http://xhww.fun:63/img.php",
 	"sites": [{
       "key": "csp_WoGG",
