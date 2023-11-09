@@ -1,16 +1,13 @@
 ========================================数据源========================================
 应用多多：http://yydsys.top/duo
 阿里精品：http://yydsys.top/duo/ali
-饭太硬：http://饭太硬.top/tv
 肥猫：http://肥猫.love
-蜂蜜：https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 道长：https://pastebin.com/raw/5NHaxyGR
 香雅情：https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
 小米：http://xhww.fun:63/小米/DEMO.json
 菜妮丝：https://tvbox.cainisi.cf
 俊佬：http://home.jundie.top:81/top98.json
 霜辉：https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-dxawi0：https://xhdwc.tk/0
 老刘备：https://raw.liucn.cc/box/m.json
 运输车：https://weixine.net/ysc.json
 潇洒：https://la.kstore.space/download/2863/01.txt
@@ -36,6 +33,19 @@ zzz1：https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 元兴：https://freed.yuanhsing.cf/TVBox/meowcf.json
 猫爪：https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json
 
+饭太硬：
+http://www.饭太硬.top/tv
+http://fan.xxooo.cf/tv
+http://fan.888484.xyz/tv
+
+蜂蜜：
+https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
+https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
+
+dxawi0：
+https://xhdwc.tk/0
+https://dxawi.github.io/0/0.json
+
 小苹果：https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
 
 https://raw.liucn.cc/box/xiaopingguo.json
@@ -56,9 +66,7 @@ https://leezn.eu.org/TVBox/js.json
 https://la.kstore.space/download/3376/001.txt
 https://la.kstore.space/download/3376/xpg.txt
 https://la.kstore.space/download/3376/fns.txt
-https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
 http://pandown.pro/tvbox/tvbox.json
-https://dxawi.github.io/0/0.json
 
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
