@@ -67,6 +67,7 @@ https://la.kstore.space/download/3376/001.txt
 https://la.kstore.space/download/3376/xpg.txt
 https://la.kstore.space/download/3376/fns.txt
 http://pandown.pro/tvbox/tvbox.json
+http://xxxoo.shop
 
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
