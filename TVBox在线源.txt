@@ -34,7 +34,7 @@ zzz1：https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 猫爪：https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json
 
 饭太硬：
-http://www.饭太硬.top/tv
+http://饭太硬.top/tv
 http://fan.xxooo.cf/tv
 http://fan.888484.xyz/tv
 
@@ -45,6 +45,10 @@ https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
 dxawi0：
 https://xhdwc.tk/0
 https://dxawi.github.io/0/0.json
+
+时光机：
+https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
+https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json
 
 小苹果：https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
 
