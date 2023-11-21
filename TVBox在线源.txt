@@ -88,3 +88,15 @@ https://epg.112114.xyz/pp.xml/?ch={name}&date={date}
 http://epg.51zmt.top:8000/e.xml/?ch={name}&date={date}
 http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}
 https://epg.pm/xmltv/epg.xml/?ch={name}&date={date}
+
+========================================zyplayer======================================== 
+基础设置->数据管理->一键配置->软件接口---地址[https://zy.hiram.top/easyconfig.json]->导入
+基础设置->数据管理->配置导入->远端导入---地址[https://zy.hiram.top/config.json]->导入
+http://xiaoguozitv.cn/catys/zyplay.json
+https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
+https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json
+https://raw.fastgit.org/ls125781003/dmtg/main/zy_yuan.json
+https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main/Sites/Sites.json
+https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+https://www.nxfk.store/config.json
+https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json
