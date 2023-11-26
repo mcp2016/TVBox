@@ -1,5 +1,3 @@
-🇨🇳｜️test,#genre#
-
 🇨🇳｜️央视,#genre#
 ############################# 不卡顿
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
