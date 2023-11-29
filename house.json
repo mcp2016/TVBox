@@ -6,7 +6,7 @@
 		},
 		{
 			"sourceName": "backup",
-			"sourceUrl": "https://mcp2016.github.io/TVBox/backup/urls.json"
+			"sourceUrl": "https://mcp2016.github.io/TVBox/backup/backup.json"
 		}
 	]
 }
