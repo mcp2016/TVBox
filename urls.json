@@ -1,36 +1,20 @@
 {
-	"urls": [{
-		"url": "http://yydsys.top/duo",
-		"name": "🏡应用多多家庭版"
-	}, {
-		"url": "https://mcp2016.github.io/TVBox/pj.json",
-		"name": "🦅鹏九"
-	}, {
-		"url": "http://饭太硬.top/tv",
-		"name": "🍚饭太硬"
-	}, {
-		"url": "http://xhww.fun:63/小米/DEMO.json",
-		"name": "🌾小米线路"
-	}, {
-		"url": "http://肥猫.love",
-		"name": "🐈肥猫线路"
-	}, {
-		"url": "https://gh.t4tv.hz.cz/newtang.bmp",
-		"name": "3️⃣唐三线路"
-	}, {
-		"url": "http://52bsj.vip:98/wuai",
-		"name": "💖吾爱线路"
-	}, {
-		"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-		"name": "🌟云星日记"
-	}, {
-		"url": "http://miaotvs.cn/meow",
-		"name": "🐹喵影视线路"
-	}, {
-		"url": "https://agit.ai/cyl518/yl/raw/branch/master/ml.json",
-		"name": "🦆胖鸭线路"
-	}, {
-		"url": "https://mcp2016.github.io/TVBox/应用多多backup.json",
-		"name": "🏡应用多多backup"
-	}]
+	"urls": [
+		{
+			"url": "http://yydsys.top/duo",
+			"name": "🏡应用多多家庭版"
+		},
+		{
+			"url": "http://饭太硬.top/tv",
+			"name": "🍚饭太硬"
+		},
+		{
+			"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+			"name": "🌟云星日记"
+		},
+		{
+			"url": "https://mcp2016.github.io/TVBox/pj.json",
+			"name": "🦅鹏九"
+		}
+	]
 }

@@ -1,15 +1,12 @@
 {
-	"storeHouse": [{
+	"storeHouse": [
+		{
 			"sourceName": "🦅鹏九多仓",
 			"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
 		},
 		{
-			"sourceName": "🌹欧歌主仓库🌹",
-			"sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
-		},
-		{
-			"sourceName": "吾爱有三日月与卿",
-			"sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
+			"sourceName": "backup",
+			"sourceUrl": "https://mcp2016.github.io/TVBox/backup/urls.json"
 		}
 	]
 }
