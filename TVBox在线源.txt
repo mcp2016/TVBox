@@ -37,20 +37,17 @@ zzz1：https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
 http://饭太硬.top/tv
 http://fan.xxooo.cf/tv
 http://fan.888484.xyz/tv
-
 蜂蜜：
 https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
 https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
-
 dxawi0：
 https://xhdwc.tk/0
 https://dxawi.github.io/0/0.json
-
 时光机：
 https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
 https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json
-
 小苹果：https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
+影迷：https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
 
 https://raw.liucn.cc/box/xiaopingguo.json
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
