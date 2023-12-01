@@ -478,7 +478,6 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 
 🏆｜体育,#genre#
-新视觉,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 辽望体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
 魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 
