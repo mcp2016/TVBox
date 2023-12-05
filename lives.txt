@@ -354,7 +354,6 @@ CCTV11,http://120.196.232.56:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3
 湖南金鹰卡通,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000350
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
 
