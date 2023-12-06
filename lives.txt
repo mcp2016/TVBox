@@ -273,23 +273,6 @@ CCTV11,http://120.196.232.56:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3
 辽宁卫视,https://video.lzjtu.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/index.m3u8
 黑龙江卫视,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
 
-湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
-浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
-辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
-天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
-四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
-东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
-广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
-河南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
-
 江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 江苏卫视,http://120.196.232.16:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 四川卫视,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
@@ -320,13 +303,11 @@ CCTV11,http://120.196.232.56:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3
 🧸｜少儿,#genre#
 湖南金鹰卡通,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000350
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 黑龙江少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
 
 🏆｜体育,#genre#
 辽望体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 
@@ -334,4 +315,3 @@ CCTV11,http://120.196.232.56:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
-游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
