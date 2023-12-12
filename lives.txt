@@ -399,22 +399,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 辽望体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
 
-🏀｜NBA,#genre#
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303206
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303207
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303208
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303209
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303210
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303211
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303212
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303213
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303214
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303215
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303216
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303217
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303218
-NBA,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=303219
-
 🎮｜电竞,#genre#
 游戏风云,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱电竞,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
