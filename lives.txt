@@ -94,25 +94,6 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 
-CCTV1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV7,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV8,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-CCTV9,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-CCTV10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-CCTV5+,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-
 🇨🇳｜️央视#其他,#genre#
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
@@ -149,8 +130,6 @@ CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1
 CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
 CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
-
-CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 
 📡｜卫视,#genre#
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
@@ -264,31 +243,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225802/1.m3u8
 
-江苏卫视,https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-广西卫视,https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-浙江卫视,https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-东方卫视,https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-北京卫视,https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-天津卫视,https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-黑龙江卫视,https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-广东卫视,https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-江西卫视,https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-甘肃卫视,https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-贵州卫视,https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-
 🏆｜体育,#genre#
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -297,11 +251,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-劲爆体育,https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-五星体育,https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-超级体育,https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-咪咕足球,https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-魅力足球,https://live.goodiptv.club/api/bestv.php?id=mlyyhd8m/8000000
 
 🎮｜电竞,#genre#
 游戏风云,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -309,8 +258,6 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
-游戏风云,https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-电竞天堂,https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
 
 🧸｜少儿,#genre#
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
@@ -324,8 +271,3 @@ CCTV4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 爱幼教,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 爱动漫,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 卡酷少儿,http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
-青春动漫,https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-宝宝动画,https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-卡酷少儿,https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-哈哈炫动,https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-动漫秀场,https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
