@@ -150,9 +150,12 @@ CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1
 CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 
 📡｜卫视,#genre#
+江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/1/224/3221227402/index.m3u8
+浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227393/index.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227698/index.m3u8
+东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/1/224/3221227208/index.m3u8
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/1/224/3221228626/index.m3u8
 东南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221227670/index.m3u8
-东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/1/224/3221227208/index.m3u8
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225591/index.m3u8
 北京卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/1/224/3221227694/index.m3u8
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221228130/index.m3u8
@@ -163,15 +166,12 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1
 广东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227691/index.m3u8
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228183/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/1/224/3221228290/index.m3u8
-江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/1/224/3221227402/index.m3u8
 江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225536/index.m3u8
 河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228106/index.m3u8
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/1/224/3221227521/index.m3u8
-浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227393/index.m3u8
 海南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/1/224/3221228101/index.m3u8
 深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227695/index.m3u8
 湖北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/1/224/3221227703/index.m3u8
-湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227698/index.m3u8
 甘肃卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/1/224/3221227568/index.m3u8
 贵州卫视,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/1/224/3221228136/index.m3u8
 辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/1/224/3221227700/index.m3u8
