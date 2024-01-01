@@ -12,7 +12,7 @@ CCTV9,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/32
 CCTV10,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227620/index.m3u8
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/1/224/3221228289/index.m3u8
 CCTV12,http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/1/224/3221227637/index.m3u8
-CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/1/224/3221228224/index.m3u8
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb17]/ott.mobaibox.com/PLTV/1/224/3221227387/index.m3u8
 CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227693/index.m3u8
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/3221228404/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/1/224/3221228168/index.m3u8
