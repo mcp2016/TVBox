@@ -332,10 +332,10 @@ CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1
 动漫秀场,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 
 🐉｜徐州,#genre#
-徐州新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/1/224/3221225945/index.m3u8
-徐州经济生活,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/1/224/3221225947/index.m3u8
-徐州文艺影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/1/224/3221225949/index.m3u8
-徐州公共,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/1/224/3221225951/index.m3u8
+徐州1,http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/1/224/3221225945/index.m3u8
+徐州2,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/1/224/3221225947/index.m3u8
+徐州3,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/1/224/3221225949/index.m3u8
+徐州4,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/1/224/3221225951/index.m3u8
 沛县文艺影视,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227681/index.m3u8
 沛县新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227678/index.m3u8
 沛县经济生活,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/1/224/3221227611/index.m3u8
