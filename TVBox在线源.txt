@@ -71,6 +71,8 @@ http://pandown.pro/tvbox/tvbox.json
 http://xxxoo.shop
 http://cdn.qiaoji8.com/tvbox.json
 
+https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json
+
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
 欧歌：http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
@@ -82,6 +84,7 @@ https://raw.liucn.cc/box/dm.txt
 
 ========================================LIVE======================================== 
 https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt
+https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/aikanTV.txt
 
 ========================================EPG 节目单======================================== 
 http://epg.112114.xyz/?ch={name}&date={date}
