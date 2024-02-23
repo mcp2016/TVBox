@@ -70,6 +70,7 @@ https://la.kstore.space/download/3376/fns.txt
 http://pandown.pro/tvbox/tvbox.json
 
 https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json
+https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
 
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
