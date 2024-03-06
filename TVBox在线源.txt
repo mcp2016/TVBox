@@ -4,6 +4,8 @@ http://饭太硬.top/tv
 http://fan.xxooo.cf/tv
 http://fan.888484.xyz/tv
 
+ok：https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
+
 肥猫：http://肥猫.live
 道长：https://pastebin.com/raw/5NHaxyGR
 香雅情：https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
@@ -69,8 +71,7 @@ https://la.kstore.space/download/3376/xpg.txt
 https://la.kstore.space/download/3376/fns.txt
 http://pandown.pro/tvbox/tvbox.json
 
-https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json
-https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
+搞机大师：https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json
 
 ========================================多仓源======================================== 
 应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
