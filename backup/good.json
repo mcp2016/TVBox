@@ -3,6 +3,20 @@
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
+      "key": "影视车",
+      "name": "🚗影视车",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
+        "site": "https://www.weixine.link"
+      },
+      "timeout": 30
+    },
+    {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥",
       "type": 3,
@@ -14,22 +28,7 @@
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt"
       },
       "timeout": 30
-    },
-    {
-      "key": "影视车",
-      "name": "🚗影视车",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.weixine.link"
-      },
-      "timeout": 30
-    }  
+    }
   ],
   "parses": [
     {
@@ -270,22 +269,14 @@
   ],
   "lives": [
     {
-      "name": "SAO0",
+      "name": "鹏九直播",
       "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
       "playerType": 1,
+      "url": "https://mcp2016.github.io/TVBox/lives.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "timeout": 10
     }
   ]
 }
