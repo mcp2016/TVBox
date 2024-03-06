@@ -4,17 +4,20 @@
   "sites": [
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶哥哥",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/tvfan/token.txt"
+      },
+      "timeout": 30
     },
     {
-      "key": "影视车1",
-      "name": "🚗影视车1┃4K弹幕",
+      "key": "影视车",
+      "name": "🚗影视车",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -23,26 +26,9 @@
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvfan/token.txt",
         "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.weixine.link",
-        "danmu": true
+        "site": "https://www.weixine.link"
       },
-      "timeout": 25
-    },
-    {
-      "key": "影视车",
-      "name": "🚗影视车┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "site": "https://www.weixine.link",
-        "danmu": true
-      },
-      "timeout": 25
+      "timeout": 30
     }  
   ],
   "parses": [
