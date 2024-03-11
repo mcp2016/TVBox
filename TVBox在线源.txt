@@ -8,81 +8,162 @@ ok：
 http://ok321.top/ok
 https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
 
-肥猫：http://肥猫.live
-道长：https://pastebin.com/raw/5NHaxyGR
-香雅情：https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json
-小米：http://xhww.fun:63/小米/DEMO.json
-菜妮丝：https://tvbox.cainisi.cf
-俊佬：http://home.jundie.top:81/top98.json
-霜辉：https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-老刘备：https://raw.liucn.cc/box/m.json
-运输车：https://weixine.net/ysc.json
-潇洒：https://la.kstore.space/download/2863/01.txt
-南风：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-蚂蚁论坛：https://la.kstore.space/download/2883/0110.txt
-月光宝盒：https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json
-欧歌：http://tv.nxog.top/m/111.php?ou=欧歌&mz=index2&xl=&jar=index2
-吾爱：http://52bsj.vip:98/wuai
-云星日记：http://itvbox.cc/tvbox/云星日记/1.m3u8
-星辰：http://8.210.232.168/xc.json
-分享者：https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
-不良帅：https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
-佰欣园：https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
-甜蜜：https://ghproxy.com/https://raw.githubusercontent.com/kebedd69/TVbox-interface/main/甜蜜.json
-一木：https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json
-kvymin：https://agit.ai/kvymin/TV/raw/branch/master/Box.json
-abc：https://agit.ai/n/b/raw/branch/a/b/c.json
-zzz1：https://agit.ai/mmmgit/tvbox/raw/branch/main/zzz1.json
-小马：https://szyyds.cn/tv/x.json
-荷城茶秀：http://rihou.cc:88/荷城茶秀
-高天流云：https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json
-胖鸭：https://agit.ai/cyl518/yl/raw/branch/master/ml.json
-元兴：https://freed.yuanhsing.cf/TVBox/meowcf.json
-猫爪：https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json
-
-蜂蜜：
-https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json
-https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
-dxawi0：
-https://xhdwc.tk/0
-https://dxawi.github.io/0/0.json
-时光机：
-https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json
-https://raw.githubusercontent.com/bestpvp/tm/main/source/nightly/main.json
-小苹果：https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
 影迷：https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
-巧技线路：http://cdn.qiaoji8.com/tvbox.json
 
-https://raw.liucn.cc/box/xiaopingguo.json
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt
-https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
-http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-https://ghproxy.com/https://raw.githubusercontent.com/AndroidSoftwares/box/main/box.json
-https://pastebin.com/raw/sbPpDm9G
-https://pastebin.com/raw/gtbKvnE1
-https://agit.ai/hu/hcr/raw/branch/master/MMM.txt
-https://agit.ai/hu/hcr/raw/branch/master/py3.txt
-https://agit.ai/liucn/box/raw/branch/main/m.json
-https://agit.ai/n/b/raw/branch/a/b/c.json
-https://raw.githubusercontent.com/YuanHsing/freed/master/TVBox/meow.json
-https://leezn.eu.org/TVBox/py.json
-https://leezn.eu.org/TVBox/js.json
-https://la.kstore.space/download/3376/001.txt
-https://la.kstore.space/download/3376/xpg.txt
-https://la.kstore.space/download/3376/fns.txt
-http://pandown.pro/tvbox/tvbox.json
-
-搞机大师：https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/gaoji.json
-
-========================================多仓源======================================== 
-应用多多：https://jihulab.com/duomv/apps/-/raw/main/fast.json
-欧歌：http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
-吾爱：http://52bsj.vip:98/wuaihouse
-
-白嫖小蚂蚁：http://tv.nxog.top/api.php?mz=xb&id=1&b=白嫖小蚂蚁
-
-https://raw.liucn.cc/box/dm.txt
+[
+    {
+        "url": "http://饭太硬.top/tv",
+        "name": "🚀饭太硬线路"
+    },
+    {
+        "url": "http://肥猫.live",
+        "name": "🚀肥猫线路"
+    },
+    {
+        "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+        "name": "🚀PG线路"
+    },
+    {
+        "url": "https://pastebin.com/raw/5NHaxyGR",
+        "name": "🚀道长线路"
+    },
+    {
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+        "name": "🚀香雅情线路"
+    },
+    {
+        "url": "http://xhww.fun/小米/DEMO.json",
+        "name": "🚀小米线路"
+    },
+    {
+        "url": "https://100km.top/0",
+        "name": "🚀Ray线路"
+    },
+    {
+        "url": "http://home.jundie.top:81/top98.json",
+        "name": "🚀俊佬线路"
+    },
+    {
+        "url": "https://raw.liucn.cc/box/m.json",
+        "name": "🚀老刘备线路"
+    },
+    {
+        "url": "http://rihou.cc:88/荷城茶秀",
+        "name": "🚀荷城茶秀"
+    },
+    {
+        "url": "https://cn.kstore.space/download/2863/01.txt",
+        "name": "🐹潇洒线路"
+    },
+    {
+        "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+        "name": "🐹南风线路"
+    },
+    {
+        "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+        "name": "🐹D佬魔改线路"
+    },
+    {
+        "url": "http://rihou.vip:55/天天开心",
+        "name": "🐹开心线路"
+    },
+    {
+        "url": "https://atomgit.com/ygbh888/YGBH777/raw/main/ygbox.json",
+        "name": "🐹月光宝盒"
+    },
+    {
+        "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index2&123&b=欧歌",
+        "name": "🐹欧歌线路"
+    },
+    {
+        "url": "http://我不是.摸鱼儿.top",
+        "name": "🐹摸鱼线路"
+    },
+    {
+        "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+        "name": "🐹吾爱线路"
+    },
+    {
+        "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+        "name": "🐹云星日记"
+    },
+    {
+        "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+        "name": "🐹运输车线路"
+    },
+    {
+        "url": "http://8.210.232.168/xc.json",
+        "name": "🐹星辰线路"
+    },
+    {
+        "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+        "name": "🐹分享者线路"
+    },
+    {
+        "url": "http://www.liuyunw.com:88/img",
+        "name": "🐹神仙线路"
+    },
+    {
+        "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+        "name": "💎不良帅线路"
+    },
+    {
+        "url": "http://meowtv.cn/tv",
+        "name": "💎喵影视线路"
+    },
+    {
+        "url": "https://www.macms.pro/box/3.json",
+        "name": "💎万达线路"
+    },
+    {
+        "url": "http://xiaohu.xzam.cn/xiaohu",
+        "name": "💎小胡线路"
+    },
+    {
+        "url": "https://szyyds.cn/tv/x.json",
+        "name": "💎小马线路"
+    },
+    {
+        "url": "https://tv.lan2wan.top/candymuj.json",
+        "name": "💎看电影线路"
+    },
+    {
+        "url": "https://lltv8.top",
+        "name": "💎猎狼线路"
+    },
+    {
+        "url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+        "name": "🏄️业余线路"
+    },
+    {
+        "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
+        "name": "🏄️榴莲线路"
+    },
+    {
+        "url": "https://raw.gitcode.com/Xymz/ymz/blobs/3e447ee2b92cbf8282c1648387380768a73efa63/YMZ",
+        "name": "🏄️夜猫子"
+    },
+    {
+        "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+        "name": "🏄️高天流云"
+    },
+    {
+        "url": "http://sinopacifichk.com/box/56.txt",
+        "name": "🏄️太平洋线路"
+    },
+    {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+        "name": "🏄️二哈线路"
+    },
+    {
+        "url": "http://cdn.qiaoji8.com/tvbox.json",
+        "name": "🏄️巧技线路"
+    },
+    {
+        "url": "http://www.wya6.cn/tv/yc.json",
+        "name": "🏄️无意线路"
+    }
+]
 
 ========================================LIVE======================================== 
 https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt
