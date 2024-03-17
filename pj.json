@@ -3,7 +3,7 @@
     "lives": [
         {
             "playerType": 1,
-            "name": "🦅鹏九",
+            "name": "鹏九直播",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "type": 0,
             "ua": "okhttp/3.15",
@@ -15,7 +15,7 @@
         {
             "filterable": 0,
             "quickSearch": 0,
-            "name": "豆瓣",
+            "name": "🦅鹏九",
             "api": "csp_DouDou",
             "type": 3,
             "key": "豆豆",
