@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;a718a454390bd09be919bd63d77b0366",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;938060a131f2b35300709f4e06b95342",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
@@ -7,6 +7,7 @@
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"南瓜","name":"🎃南瓜┃直连","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"酷看","name":"😎酷看┃直连","type": 3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 20},
+    {"key":"白票","name":"🦄白票|直连","type": 3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"filterable":1, "timeout": 25},
     {"key":"厂长","name":"🌸厂长┃直连","type": 3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1, "timeout": 25},
     {"key":"荐片","name":"🐭荐片┃手机","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
     {"key":"短剧网","name":"🌈短剧┃在线","type":3,"api":"csp_Duanju5","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
@@ -21,12 +22,6 @@
       "token": "file://TV/ali_token.txt",
       "share": "file://TV/阿里集合.json"
     }, "style":{"type":"list"}, "timeout": 30},
-    {"key":"运输车弹幕版","name":"🚗影视车┃4K弹幕","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "site": "https://www.weixine.link",
-      "danmu" : true
-    }, "timeout": 25},
     {"key":"团长","name":"🗽团长┃4K","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt"
@@ -34,18 +29,16 @@
     {"key":"土豆网盘","name":"🥔土豆┃4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
       "token": "file://TV/ali_token.txt",
       "cookie": "file://TV/quark_cookie.txt",
-      "site": "https://aliz.lvdoui.top"
+      "site": "http://www.ttkx.live:3328"
     }, "timeout": 25},
-    {"key":"玩偶表哥","name":"🥏玩偶表哥┃4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt"
-    },"timeout":25},
     {"key":"️爱看Bot","name":"⛅️爱看Bot|直连","type": 3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
 
     {"key":"大师兄js","name":"🦁大师兄┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dashixiong.js", "timeout": 15},
     {"key":"达达龟js","name":"🐢达达龟┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dadagui.js", "timeout": 15},
     {"key":"libvio_js","name":"🐰利播┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/libvio.js", "timeout": 15},
     {"key":"nmys_js","name":"👨‍🌾‍农民┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js", "timeout": 15},
+    {"key":"freeok_js","name":"😋FreeOK┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/freeok.js", "timeout": 30},
+    {"key":"ddys_js","name":"🍄低端┃在线","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ddys.js", "timeout": 15},
     {"key":"ntdm_js","name":"🐯NT动漫┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ntdm.js", "timeout": 15},
     {"key":"dmd_js","name":"🦁动漫岛┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js", "timeout": 15},
     {"key":"yishijiedm_js","name":"🐶异世界┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js", "timeout": 15},
@@ -119,9 +112,9 @@
   "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
   "ads":["mozai.4gtv.tv"],
   "lives":[
-    {"name":"live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/my-program/zhiboyuan/-/raw/main/zhiboyuan.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
+    {"name":"live","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
     {"name":"tv","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10},
-    {"name":"fanmingming","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10}
+    {"name":"fanmingming","type":0,"url":"http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/v6.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","timeout":10}
   ],
   "ijk":[
     {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
