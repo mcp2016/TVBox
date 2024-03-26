@@ -1,16 +1,6 @@
 {
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "lives": [
-        {
-            "playerType": 1,
-            "name": "鹏九直播",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "type": 0,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "url": "https://mcp2016.github.io/TVBox/lives.txt"
-        }
-    ],
     "sites": [
         {
             "key": "豆豆",
@@ -587,6 +577,121 @@
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
         }
     ],
+    "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "神秘的哥哥们",
+            "type": 1,
+            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS"
+                ]
+            }
+        },
+        {
+            "name": "免费分享",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
     "rules": [
         {
             "name": "kk",
@@ -710,120 +815,15 @@
             ]
         }
     ],
-    "parses": [
+    "lives": [
         {
-            "name": "聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "神秘的哥哥们",
-            "type": 1,
-            "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "tucheng",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "yzm",
-                    "aliyun",
-                    "RJuMao",
-                    "bilibili",
-                    "1905",
-                    "xinvip",
-                    "XAL",
-                    "qiqi",
-                    "XALS"
-                ]
-            }
-        },
-        {
-            "name": "免费分享",
+            "playerType": 1,
+            "name": "鹏九直播",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "imgo",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://mcp2016.github.io/TVBox/lives.txt"
         }
-    ],
-    "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711305426162/fan.txt;md5;602fb3226d777850053484cdeb2f3296"
+    ]
 }

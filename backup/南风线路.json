@@ -3,7 +3,7 @@
 //🐧裙：711368232
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C12ED4AC52E98E5D71D54FACC6E8693E",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -31,7 +31,6 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ying","name":"🌸樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Duanju","name":"🌈短剧","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanqiu","name":"⚽88看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},

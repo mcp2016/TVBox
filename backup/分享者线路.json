@@ -409,15 +409,6 @@
 {"key":"csp_南坊","name":"💕分享南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw==","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 {"key":"csp_觅视频","name":"💖分享影猫","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM","jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt"},
 
-{
-      "key": "漠",
-      "name": "💖分享漠烟",
-      "type": 3,
-      "api": "csp_Movie2",
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5",
-      "jar": "http://www.wya6.cn/tz/wyog.php"
-    },
-
  {
             "key": "安", 
             "name": "💖分享安博", 
@@ -869,6 +860,48 @@
             "type": 3,
             "api": "https://notabug.org/ygfxz/6/raw/main/js/cat/nangua_open.js"
         },
+          {
+        "key": "人人影视",
+        "name": "👩‍❤️‍👩人人[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/rttks_open.js"
+   },
+   {
+        "key": "996影视",
+        "name": "🌂久留[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ys996_open.js"
+    }, 
+    {
+        "key": "免费看",
+        "name": "🥘免费[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mfk_open.js"
+   },  
+   {
+        "key": "多瑙影视",
+        "name": "🥟多瑙[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/dnys_open.js"
+   }, 
+   {
+        "key": "z追剧迷",
+        "name": "🦒追剧[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/zjm_open.js"
+   },  
+ {
+        "key": "热播r之家",
+        "name": "🧣热播[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/rbzj_open.js"
+   },
+ {
+        "key": "影渣渣",
+        "name": "🐽影渣[cat]",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/yzz_open.js"
+   }, 
         {
             "key": "cntv",
             "name": "🍵白嫖[cat]",
@@ -896,25 +929,6 @@
       "name": "💖分享自营",
       "type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
      
-        {
-            "key": "迷你库",
-            "name": "🏰迷你仓库",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
-            "key": "土城",
-            "name": "☃️迷你世界",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v2/"
-        },
          {
             "key": "V2",
             "name": "💖分享蓝光",
@@ -1089,16 +1103,6 @@
             "filterable": 1,
             "ext": "http://cms.shenqi4k.cc/api.php/app/"
        },
-       {
-      "key": "csp_嘿嘿",
-      "name": "🪙嘿嘿专机",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/66666/mao2/raw/commit/95a7a9757150bd157a6e654316c8b9f28b6cf0c7/MaooXB2/嘿嘿.json"
-    },
 
 {
     "key":"csp_XBPQ_duoju",
@@ -1382,8 +1386,6 @@
       ]
 },
 
-{"key":"tiant","name":"🗃天堂官釆","type":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"http://vipmv.cc/api.php/provide/vod/"},
-
 {
        "key":"星影1080cms",
        "name":"🎏星影相随",
@@ -1402,8 +1404,6 @@
     },
 
     {"key":"废物影院", "name":"️🧳废物影院", "type":1, "api":"http://playersll.gaoxin155.com.cn/api.php/provide/vod/", "playUrl":"", "searchable":1, "quickSearch":1, "filterable":1, "categories":["国产剧", "综艺", "日韩剧", "惊悚片", "犯罪片", "冒险片", "动作片", "科幻片", "奇幻片", "喜剧片", "爱情片", "恐怖片", "战争片", "悬疑片", "剧情片", "记录片", "港台剧", "欧美剧", "动漫"]},
-
-{"key":"蜜蜂资源","name":"🐝蜜蜂资源","type":1,"api":"https://www.beeyao.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","大陆综艺","国产动漫","日韩综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","悬疑片","犯罪片","动画片","奇幻片","港台剧","欧美剧","日韩剧","其他剧"]},
 {"key":"无限影视","name":"🔆无限风光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
  {"key":"奈飞狗","name":"🐶奈飞狗仔","type":3,"api":"csp_AppYs", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://netflixdog.club/api.php/app/"},
 
@@ -1416,7 +1416,7 @@
                 "分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"
             }},
            {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-        {"key":"Cokemv3","name":"🥤可口可乐","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
+        {"key":"Cokemv3","name":"🥤可口可乐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
         {
        "key": "嗨剧影视",
        "name": "📍嗨翻剧场",
@@ -1486,17 +1486,6 @@
             "ext": "https://notabug.org/ygfxz/6/raw/main/js/大师兄影视.js"
         },
         
-         {
-    "key" : "csp_appysv2_看剧吧",
-    "name" : "👽来看剧吧",
-    "type" : 3,
-    "api" : "csp_AppYsV2",
-    "searchable" : 1,
-    "quickSearch" : 1,
-    "filterable" : 1,
-    "ext" : "http://app.ishen520.com/api.php/v1.vod"
-  },
-        
         {
 			"key": "csp_xml_享看",
 			"name": "🌞享看就看",
@@ -1542,21 +1531,9 @@
             "key": "北川", 
             "name": "❄️北国风光", 
             "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "https://download.kstore.space/download/4127/js/JB.json"}, 
+            "api": "https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js", 
+            "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"}, 
 
-             {
-            "key": "csp_XYQHiker_素白白影视",
-            "name": "💮素裏银妆",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://notabug.org/ygfxz/6/raw/main/XYQB/素白白影视.json"
-        },
-        
 {
 			"key": "csp_Ikanbot",
 			"name": "👾爱看机器",
