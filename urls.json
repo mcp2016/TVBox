@@ -9,16 +9,8 @@
             "url": "http://饭太硬.top/tv"
         },
         {
-            "name": "🍚饭太硬Backup",
-            "url": "https://mcp2016.github.io/TVBox/backup/饭太硬.json"
-        },
-        {
             "name": "👌OK猫影",
             "url": "http://ok321.top/ok"
-        },
-        {
-            "name": "👌OK猫影Backup",
-            "url": "https://mcp2016.github.io/TVBox/backup/OK猫影.json"
         },
         {
             "name": "🚀PG线路",
@@ -35,6 +27,10 @@
         {
             "name": "🚀香雅情线路",
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
+        {
+            "name": "🚀放牛线路",
+            "url": "http://tvbox.王二小放牛娃.xyz"
         },
         {
             "name": "🚀小米线路",

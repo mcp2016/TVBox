@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;938060a131f2b35300709f4e06b95342",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;e0eeee047a042c9c3646c5c1767a2749",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
@@ -7,7 +7,7 @@
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"南瓜","name":"🎃南瓜┃直连","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"酷看","name":"😎酷看┃直连","type": 3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 20},
-    {"key":"白票","name":"🦄白票|直连","type": 3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"filterable":1, "timeout": 25},
+    {"key":"白票","name":"🦄白票|直连","type": 3,"api":"csp_Cs1369","playerType":1,"searchable":1,"quickSearch":1,"filterable":1, "timeout": 25},
     {"key":"厂长","name":"🌸厂长┃直连","type": 3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1, "timeout": 25},
     {"key":"荐片","name":"🐭荐片┃手机","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"timeout":20},
     {"key":"短剧网","name":"🌈短剧┃在线","type":3,"api":"csp_Duanju5","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
@@ -43,6 +43,7 @@
     {"key":"dmd_js","name":"🦁动漫岛┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js", "timeout": 15},
     {"key":"yishijiedm_js","name":"🐶异世界┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js", "timeout": 15},
     {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":10},
+    {"key":"不太灵","name":"🍄不太灵┃磁力","type":3,"api":"csp_Bt0","searchable":1,"changeable":0,"timeout":10},
 
 
     {"key":"sp360","name":"🐛360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"timeout":25},
