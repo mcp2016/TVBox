@@ -12,7 +12,7 @@
 
 "sites":[
 
-{"key":"js_豆瓣热播","name":"🏮荷城茶秀:祝您新年快乐!龙年大吉!🏮","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
+{"key":"js_豆瓣热播","name":"微信公众号：日后魔改","type":3,"api":"./hccx/Api.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./hccx/Doubanrebo.js"},
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 
@@ -20,7 +20,7 @@
 
 {"key":"wwgg","name":"🅱️玩我阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/玩我哥哥.json"},
 
-{"key":"yscal","name":"🅱️运输阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/运输阿里.json"},
+//{"key":"yscal","name":"🅱️运输阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./hccx/运输阿里.json"},
 
 {"key":"csp_xBPQ_白嫖","name":"🅱️白嫖影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./hccx/白嫖影视.json"},
 
@@ -52,7 +52,7 @@
 
 {"key": "csp_JianPian","name": "🅱️荐片秒播|T追剧","type": 3,"api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
-//{"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key": "push_agent","name": "🅱️辅助推送|T功能","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "Gitcafe","name": "🔍阿里|小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./tvboxt/tok.txt"},
         

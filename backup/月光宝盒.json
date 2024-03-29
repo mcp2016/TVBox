@@ -76,16 +76,16 @@
       "changeable": 1,
       "api": "csp_XBPQ",
       "ext": {
-        "主页url": "http://www.baipiaoys.com/",
+        "主页url": "https://www.baipiaoys.com:9092",
         "副标题": "pic-text text-right\">&&</b>",
         "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.com/search.html?wd={wd}",
+        "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
         "图片": "data-original=\"&&\"",
         "嗅探词": ".mp4#m3u8#.m3u8",
         "线路标题": "🌙宝盒专享",
         "线路数组": "🌙宝盒专享",
         "分类": "电影$1#电视剧$2#动漫$3",
-        "分类url": "http://www.baipiaoys.com/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
+        "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
       }
     }, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
 		{
@@ -98,9 +98,17 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"ext": "https://www.bdys10.com/$$$null$$$1","jar":"./pg.jar"
-		},{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
-{"key":"csp_Bttwoo","name":"🌙2BT|2K","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},  {
-			"key": "新6V",
+		},{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp_Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{
+      "key": "️玩偶哥哥",
+      "name": "💿玩偶|哥哥",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wog.json","jar": "./yp/yg.jar"
+    },{
+		"key": "新6V",
 			"name": "🌙六维|网盘",
 			"type": 3,
 			"api": "csp_Xb6v",
@@ -115,19 +123,6 @@
             "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
         },
-    {
-      "key": "libhd",
-      "name": "🌙LiHD|1080",
-      "type": 1,
-      "api": "https://www.libhd.com/api.php/provide/vod/from/AL2",
-      "playUrl": "https://www.libhd.com/play/?url=",
-      "categories": [
-        "电影",
-        "剧集",
-        "动漫",
-        "综艺"
-      ]
-    },
        {
       "key": "csp_圣城",
       "name": "🌙圣城|影视",
@@ -278,7 +273,168 @@
       "filterable": 1,
       "ext": "http://www.xb6v.com","jar": "./jar/XYQ1.jar"
     },{"key":"csp_YQKAPP","name":"🌙一起|电视","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top","jar": "./pg.jar"},
-		
+	
+    {
+      "key": "csp_AList",
+      "name": "💿网盘|点播",
+      "type": 3,
+      "api": "csp_Alist",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "./yp/lib/Alist.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶嫂子",
+      "name": "💿玩偶|嫂子",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wos.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶姐姐",
+      "name": "💿玩偶|姐姐",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/woj.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶姐夫",
+      "name": "💿玩偶|姐夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wof.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶弟弟",
+      "name": "💿玩偶|弟弟",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wod.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶弟媳",
+      "name": "💿玩偶|弟媳",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wodf.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶妹妹",
+      "name": "💿玩偶|妹妹",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/wom.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "️玩偶妹夫",
+      "name": "💿玩偶|妹夫",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/womf.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "云盘搜索",
+      "name": "💿云盘|搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/yps.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "DOVX搜索",
+      "name": "💿七夜|搜索",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./yp/lib/DOVX.json","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "Upyunso",
+      "name": "💿云搜|搜索",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "AliPS",
+      "name": "💿盘搜|搜索",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "Yisou",
+      "name": "💿易搜|搜索",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "💿纸条|搜索",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "AliP",
+      "name": "💿狗狗|搜索",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },
+    {
+      "key": "csp_PushAgent",
+      "name": "💿阿里|搜索",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt","jar": "./yp/yg.jar"
+    },	
 		{"key":"Moli","name":"💿HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json","jar": "./pg.jar"},
 		{"key":"影视车","name":"💿影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
 		{"key":"Wobg","name":"💿玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar": "./pg.jar"},

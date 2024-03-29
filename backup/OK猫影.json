@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okpng.txt;md5;272fa9324d6cb740765f24d92fa5c994",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;4910f56f3178dbae34fa431e565ac243",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
@@ -44,8 +44,8 @@
     {"key":"ntdm_js","name":"🐯NT动漫┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/ntdm.js", "timeout": 15},
     {"key":"dmd_js","name":"🦁动漫岛┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/dmd.js", "timeout": 15},
     {"key":"yishijiedm_js","name":"🐶异世界┃动漫","type": 3,"searchable":1,"quickSearch":1,"filterable":1,"api": "https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js", "ext": "https://jihulab.com/okcaptain/kko/-/raw/main/js/yishijiedm.js", "timeout": 15},
-    {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":10},
-    {"key":"不太灵","name":"🍄不太灵┃磁力","type":3,"api":"csp_Bt0","searchable":1,"changeable":0,"timeout":10},
+    {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"changeable":0,"timeout":20},
+    {"key":"不太灵","name":"🍄不太灵┃磁力","type":3,"api":"csp_Bt0","searchable":1,"changeable":0,"timeout":20},
 
 
     {"key":"sp360","name":"🐛360┃解析","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"timeout":25},
@@ -197,7 +197,8 @@
         "v.cdnlz"
       ],
       "regex": [
-        "18.5333"
+        "18.5333",
+        "17.20"
       ]
     },
     {

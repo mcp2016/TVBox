@@ -9,8 +9,8 @@
 
 "lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites": [
-{"key":"豆瓣2","name":"📢欧歌榜单t.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢欧歌公告❤更新:3/26❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
+{"key":"豆瓣2","name":"📢欧歌榜单o.nxog.top","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣1","name":"📢欧歌公告❤更新:3/29❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
 
@@ -33,11 +33,12 @@
 {"key": "555yingshi","name":"🎃555┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"}},
 {"key":"csp_lwdy","name":"🎃老王┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju"}},
 {"key": "csp_桵空影院","name": "🎃桵空┃影院","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.maigo.cc/vodshow/{cateId}---{class}-----{catePg}---{year}/","分类": "电影$84#综艺$91#大陆剧$81#港台剧$82#海外剧$83#纪录片$88#动漫$1#日剧$32#日漫$46#国漫$47#美漫$85"}},
-
+{"key":"橙汁","name":"🎃橙汁┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42#电视剧$2#动漫$4#电影$1#综艺$3#纪录片$5","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
+{"key":"热播之家","name":"🎃热播┃影视","type":3,"api":"csp_XBPQ","ext": {"分类":"电影$1#电视剧$2#动漫$4#综艺$5","分类url":"https://rebozj.pro/type/{cateId}.html"}},
 //app
 {"key":"鸭奈飞","name":"😎奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-{"key":"赞赞","name":"😎赞赞┃影视","type":3,"api":"csp_AppYsV2","ext":"http://111.230.51.151:2323/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
+
 //js
 
 {"key":"南瓜影视","name":"🎄南瓜┃影视2","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/101.js"},
@@ -57,7 +58,6 @@
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/json/wom.json"},
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/json/wou.json"},
 {"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/json/yps.json"},
-{"key":"DOVX搜索","name":"❤️七夜┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/json/DOVX.json"},
 {"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
