@@ -1,11 +1,12 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;4910f56f3178dbae34fa431e565ac243",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;f72de5541f709583409865370b984d75",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
     {"key":"豆瓣","name":"🤓公众号┃OK猫影","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"南瓜","name":"🎃南瓜┃直连","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
+    {"key":"天天","name":"⛅️天天┃直连","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
     {"key":"酷看","name":"😎酷看┃直连","type": 3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 20},
     {"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_Wogg","searchable":1,"filterable":1,"changeable":1, "ext": {
       "token": "file://TV/ali_token.txt",

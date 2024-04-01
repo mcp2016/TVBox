@@ -85,6 +85,10 @@
             "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0"
         },
         {
+            "name": "🐹云星日记",
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
+        },
+        {
             "name": "🐹运输车线路",
             "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json"
         },
@@ -95,10 +99,6 @@
         {
             "name": "🐹分享者线路",
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
-        },
-        {
-            "name": "🐹神仙线路",
-            "url": "http://www.liuyunw.com:88/img"
         },
         {
             "name": "💎不良帅线路",
@@ -141,12 +141,12 @@
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
         },
         {
-            "name": "🏄️二哈线路",
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"
-        },
-        {
             "name": "🏄️巧技线路",
             "url": "http://cdn.qiaoji8.com/tvbox.json"
+        },
+        {
+            "name": "🏄️无意线路",
+            "url": "http://www.wya6.cn/tv/yc.json"
         }
     ]
 }
