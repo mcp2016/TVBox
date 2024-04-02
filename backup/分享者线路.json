@@ -143,6 +143,7 @@
         },
         {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
+         {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
          {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/Fr.jar"},
           {
       "key": "皮皮虾",
@@ -157,7 +158,7 @@
     },
     {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
     {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
-     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://atomgit.com/ygfxz/0/raw/master/喵次元.js"}, 
+     {"key":"miaociyuan","name":"💖分享喵喵","api":"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://pan.shangui.cc/f/jDnEu7/%E5%96%B5%E6%AC%A1%E5%85%83.js"}, 
      {
       "key": "ssb影视",
       "name": "💖分享蓝光",
@@ -541,7 +542,7 @@
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/酷云77.js"
         },{
             "key" : "drpy_js_菜狗",
-            "name" : "🐕‍🦺菜狗|JS",
+            "name" : "🐶搜狗视频",
             "type" : 3,
             "api" :"https://notabug.org/ygfxz/6/raw/main/js/lib/drpy2.min.js",
             "ext" : "https://notabug.org/ygfxz/6/raw/main/js/js/菜狗.js"
