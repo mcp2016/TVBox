@@ -1,9 +1,9 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;cc9272a182d7086441f83a8fe8860301",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;94424679eee38f7a846d4b312b3b0040",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
-    {"key":"豆瓣","name":"🤓公众号┃OK猫影","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+    {"key":"豆瓣","name":"🤓公众号┃OK猫开发","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"南瓜","name":"🎃南瓜┃直连","type": 3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"天天","name":"⛅️天天┃直连","type": 3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
