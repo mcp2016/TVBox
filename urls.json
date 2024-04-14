@@ -13,10 +13,6 @@
             "url": "http://ok321.top/ok"
         },
         {
-            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
-            "name": "🚀PG线路"
-        },
-        {
             "url": "http://肥猫.live",
             "name": "🚀肥猫线路"
         },
@@ -33,6 +29,10 @@
             "name": "🚀放牛线路"
         },
         {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },
+        {
             "url": "https://100km.top/0",
             "name": "🚀Ray线路"
         },
@@ -47,14 +47,6 @@
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "🚀荷城茶秀"
-        },
-        {
-            "url": "https://agit.ai/leevi/xpg/raw/branch/master/api.json",
-            "name": "🚀水果线路"
-        },
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🐹南风线路"
         },
         {
             "url": "http://rihou.vip:55/天天开心",
@@ -89,10 +81,6 @@
             "name": "🐹星辰线路"
         },
         {
-            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🐹分享者线路"
-        },
-        {
             "url": "http://www.liuyunw.com:88/img",
             "name": "🐹神仙线路"
         },
@@ -103,6 +91,14 @@
         {
             "url": "https://jxjson.icu/balabala",
             "name": "💎巴拉线路"
+        },
+        {
+            "url": "http://meowtv.cn/tv",
+            "name": "💎喵影视线路"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "💎万达线路"
         },
         {
             "url": "https://tv.lan2wan.top/candymuj.json",
@@ -117,12 +113,12 @@
             "name": "🏄️夜猫子线路"
         },
         {
-            "url": "http://sinopacifichk.com/box/56.txt",
-            "name": "🏄️太平洋线路"
-        },
-        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "🏄️二哈线路"
         },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",

@@ -6,17 +6,28 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+		    "url": "./lib/live.txt",
 		    "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/bingimg/logo/{name}.png"
 	    }],
 
 	"sites":[
-{"key":"豆瓣","name":"豆瓣热播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
+{"key":"豆瓣","name":"关注公众号“天天开心2024”QQ群642801802","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/douban.js"},
 {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 {"key": "直播转点播","name": "📺︎电视IJK点播","type": 3,"api": "./lib/zbzdb.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./lib/zb.json"},
 {"key": "玩我哥哥","name":"🎦玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩我哥哥.json"},
 {"key":"csp_xBPQ_白嫖","name":"🎦白嫖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/白嫖影视.json"},
+{"key":"csp_xBPQ可可","name":"🎦可可影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
+    {
+      "key": "csp_红狐狸影视",
+      "name": "🎦红狐狸影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
 {"key": "玩偶哥哥","name":"🎦玩偶|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩偶哥哥.json"},
 {"key": "土豆阿里","name":"🎦土豆阿里","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/土豆阿里.json"},
 {"key": "多多阿里","name":"🎦多多阿里","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/多多阿里.json"},
@@ -36,7 +47,9 @@
 {"key": "益达影视","name": "🎦美益达┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://myd666.tv/lvdou_api.php/v1.vod"},			
 {"key":"csp_五五","name":"🎦五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
 {"key":"达达龟","name":"🎦达龟┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
-{"key":"农民影视","name":"🎦农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nongmin.json"},
+//{"key": "农民影视","name": "🎦农民┃秒播","type": 4,"api": "https://catbox.n13.club/nongmin.php"},
+//{"key":"农民影视","name":"🎦农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nongmin.json"},
+{"key":"农民影视","name":"🎦农民┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/农民影视.js"},
 {"key": "奈飞影视","name":"🎦鸭奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynfys.json"},
 {"key": "奈飞中文","name":"🎦奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json"},
 {"key": "兄弟影视","name":"🎦兄弟┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/xdys.json"},

@@ -1,12 +1,29 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-26/2024-03-26_15:19:15/1711437555116/69560144/wex.txt;md5;1a93958bfdeb969dbdfd3478e7f8b61e",
-
-   
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-13/2024-04-13_00:55:02/1712940902842/37840257/wex.txt;md5;394673adfad3efe08a1a147f0122d400",
+  
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "sites": [
     {
 	  "key":"Douban",
 	  "name":"🐮【王二小放牛娃温馨提醒:网络套路深，谨防割韭菜】🐮",
+	  "type": 3, 
+	  "api": "csp_Douban",
+	  "searchable": 0,
+	  "quickSearch": 0,
+	  "filterable": 0
+	},
+	{
+      "key": "应用商店",
+      "name": "🆗【影视应用商店】🆗",
+      "type": 3,
+      "api": "csp_Market",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+    },
+    {
+	  "key":"Doubana",
+	  "name":"⬇️【阿里夸克先扫码】⬇️",
 	  "type": 3, 
 	  "api": "csp_Douban",
 	  "searchable": 0,
@@ -27,7 +44,7 @@
     },
 	{
       "key": "玩偶",
-      "name": "🥷玩偶┃哥哥┃阿里",
+      "name": "🥷玩偶┃网盘┃综合",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -35,9 +52,17 @@
     },
 	{
       "key": "Wexyingchao",
-      "name": "🦜鸟巢┃资源┃阿里",
+      "name": "🦜鸟巢┃网盘┃综合",
       "type": 3,
       "api": "csp_Wexyingchao",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexalist",
+      "name": "💘丫丫┃alist┃秒播",
+      "type": 3,
+      "api": "csp_Wexalist",
       "searchable": 1,
       "changeable": 1
     },
@@ -113,15 +138,7 @@
       "searchable": 1,
       "changeable": 1
     },
-
 	{
-      "key": "Kanmeiju",
-      "name": "💯美剧┃TV┃App",
-      "type": 3,
-      "api": "csp_WexKanmeiju",
-      "searchable": 1,
-      "changeable": 1
-    },{
       "key": "Fangniu4k",
       "name": "👎放牛┃TV┃App",
       "type": 3,
@@ -137,8 +154,32 @@
       "searchable": 1,
       "changeable": 1
     },
+	{
+      "key": "Wexjiohub",
+      "name": "🎉啾啾┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
-      "key": "Shijuedy",
+      "key": "Wexwencai",
+      "name": "🎇文才┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Subaibai",
+      "name": "🐇拜拜┃影视┃直连",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexShijuedy",
       "name": "👓看看┃影视┃直连",
       "type": 3,
       "api": "csp_WexShijuedy",
@@ -171,6 +212,14 @@
       "changeable": 1
     },
 	{
+      "key": "Wexlibhd",
+      "name": "🌚进口┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexlibhd",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
       "key": "Diduanys",
       "name": "🙈深渊┃影视┃直连",
       "type": 3,
@@ -195,21 +244,6 @@
       "changeable": 1
     },
 	{
-      "key": "Freeok",
-      "name": "👌一般┃影视┃直连",
-      "type": 3,
-      "api": "csp_WexFreeok",
-      "searchable": 1,
-      "changeable": 0
-    },	{
-      "key": "TVBYUNBO",
-      "name": "🏙️香港┃云播┃直连",
-      "type": 3,
-      "api": "csp_Tvbyunv2",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
       "key": "Lingsanys",
       "name": "3️⃣第三┃影视┃直连",
       "type": 3,
@@ -222,6 +256,22 @@
       "name": "🌸短劇┃VIP┃直连",
       "type": 3,
       "api": "csp_Wexvipduanju",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuvop",
+      "name": "🌸短劇┃秒播┃直连",
+      "type": 3,
+      "api": "csp_Wexduanjuvop",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuvmp",
+      "name": "🌸短劇┃极品┃直连",
+      "type": 3,
+      "api": "csp_Wexduanjuvmp",
       "searchable": 1,
       "changeable": 1
     },
@@ -270,6 +320,18 @@
       "api": "csp_WexTwobt",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "Wextangdou",
+      "name": "💃跳舞┃玩呗┃教学",
+      "type": 3,
+      "api": "csp_Wextangdou",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
     },
     {
       "key": "Pandalivetv",
@@ -466,7 +528,7 @@
         {
             "name": "王",
             "type": 1,
-            "url": "http://json.84jia.com/home/api?type=ys&uid=11154896&key=cefgiksvwyCGINV047&url="
+            "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
         },
         {
             "name": "二",
@@ -638,6 +700,15 @@
       ],
       "regex": [
         "video/tos/cn"
+      ]
+    },
+	{
+      "name": "新视觉嗅探",
+      "hosts": [
+	  "muzhi-video.bj.bcebos.com"
+      ],
+      "regex": [
+        "202403/"
       ]
     },
     {
