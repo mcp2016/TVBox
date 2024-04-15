@@ -1,5 +1,6 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-13/2024-04-13_00:55:02/1712940902842/37840257/wex.txt;md5;394673adfad3efe08a1a147f0122d400",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-14/2024-04-14_22:07:09/1713103629657/91782912/wex.txt;md5;9ef672851163831a5b0f9b59abf384c5",
+  
   
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "sites": [
@@ -10,7 +11,8 @@
 	  "api": "csp_Douban",
 	  "searchable": 0,
 	  "quickSearch": 0,
-	  "filterable": 0
+	  "filterable": 0,
+      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
 	},
 	{
       "key": "应用商店",
@@ -28,7 +30,8 @@
 	  "api": "csp_Douban",
 	  "searchable": 0,
 	  "quickSearch": 0,
-	  "filterable": 0
+	  "filterable": 0,
+      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
 	},
 	{
       "key": "Wexconfig",

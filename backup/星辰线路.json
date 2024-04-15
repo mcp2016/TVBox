@@ -1,6 +1,6 @@
 //网络收集接口，请勿传播，贩卖
 {
-   "spider": "https://git.acwing.com/Xymz/ymz/-/raw/main/Xymz.jar",
+   "spider": "https://微信公众号玉玉软件.xyz/jar/XYQ.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
    
 
     "wallpaper": "https://tool.weetai.cn/api",
@@ -18,10 +18,18 @@
     "warningText": "玉玉软件库：网络收集接口，请勿贩卖，每次打开记得长按主页刷新",
     "sites": [
   
-        {"key":"豆瓣","name":"㊙️「公众号玉玉软件库」ㅤ官网:yyrj.xyz","type":3,"api":"csp_Douban", "jar": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/xc14.jar","searchable":0},
+        {"key":"豆瓣","name":"㊙️「公众号玉玉软件」ㅤ官网:yyrj.xyz","type":3,"api":"csp_Douban", "jar": "https://微信公众号玉玉软件.xyz/jar/xc14.jar","searchable":0},
          
           {"key":"小镇","name":"🎦小镇","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
              {"key":"rebo","name":"🎦热播","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
+             
+             {
+		"key": "drpy_侬好",
+		"name":"🎦侬好",
+		"type": 3,
+		"api": "https://微信公众号玉玉软件.xyz/box1/lib/drpy2.min.js",
+		"ext": "https://pan.shangui.cc/f/2ZJ8hx/ygfxz.js"
+	},
                {
             "key": "csp_秒播",
             "name": "🎦秒播",
@@ -83,14 +91,14 @@
   {"key":"csp_SP360","name":"🎦360","type":3,
 "playerType":2,
 "api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+    {"key":"drpy_js_奇珍异兽","name":"🎦奇珍","type":3,"api":"https://微信公众号玉玉软件.xyz/box1/lib/drpy2.min.js","ext":"https://微信公众号玉玉软件.xyz/box1/js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"🎦优酷","type":3,"api":"https://微信公众号玉玉软件.xyz/box1/lib/drpy2.min.js","ext":"https://微信公众号玉玉软件.xyz/box1/js/优酷.js"},
        
  {"key":"drpy_js_腾云驾雾","name":"🎦企鹅","type":3,"playerType":2,
- "api":"https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/mqpYuj/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
+ "api":"https://微信公众号玉玉软件.xyz/box1/lib/drpy2.min.js","ext":"/js/腾云驾雾.js},
 
-{"key":"drpy_js_百忙无果","name":"🎦芒果","type":3,"playerType":2,
-"api":"https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/nGAdF6/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
-
-
+ {"key":"drpy_js_百忙无果","name":"🎦百果","type":3,"api":"https://微信公众号玉玉软件.xyz/box1/lib/drpy2.min.js","ext":"https://微信公众号玉玉软件.xyz/box1/js/百忙无果.js"},
+ {"key":"csp_Ikanbot","name": "👾机器","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.ikanbot.com"},
       
 {
     "key":"csp_XBPQ_kan",
@@ -204,7 +212,7 @@
 		"name": "🎦港湾",
 		"type": 3,
 		"api": "csp_XYQHiker",
-		"jar":"	https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/XYQ.jar",
+		"jar":"	https://微信公众号玉玉软件.xyz/jar/XYQ.jar",
 		"playerType": 2,
 		"ext": "http://175.24.189.226/box/xc/json/%E7%94%B5%E5%BD%B1%E6%B8%AF.json"
 	},
@@ -370,14 +378,14 @@
      
 {"key":"drpy_js_达达龟","name":"🎦达龟","type":3,"api":"https://notabug.org/kite/feng/raw/master/lib/drpy.min.js","ext":"https://notabug.org/kite/feng/raw/master/jsd/达达龟.jsd"},
 
-{"key":"低端","name":"🎦低端","type":3,"api":"csp_Ddys","jar":"	https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"低端","name":"🎦低端","type":3,"api":"csp_Ddys","jar":"	https://微信公众号玉玉软件.xyz/jar/XYQ.jar","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
     {"key":"哔嘀","name":"🎦哔嘀","type":3,"api":"csp_Bdys","jar":"http://w1.nxog.top:80/d/%E7%A7%BB%E7%A7%BB/ou.jar","searchable":1,"quickSearch":1,"filterable":1},
     
  
-        {"key":"360_spider","name":"🎦360","type":3,"api":"csp_SP360","jar":"https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/jar/XYQ.jar","filterable":1,"quickSearch":1,"searchable":1},
+        {"key":"360_spider","name":"🎦360","type":3,"api":"csp_SP360","jar":"https://微信公众号玉玉软件.xyz/jar/XYQ.jar","filterable":1,"quickSearch":1,"searchable":1},
 
 	
 	
@@ -385,18 +393,18 @@
 
       
 	
-    {"key": "csp_Mp4Mov","name": " 🎦Mp4","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/ddx/TVBox/raw/branch/master/js/cili.jar"},
+    
     
    
     
    
      
-        {"key":"csp_CandyMuj_taoju","name":"🎦淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_CandyMuj_taoju","name":"🎦淘剧","type":3,"api":"csp_CandyMuj_taoju","jar":"http://微信公众号玉玉软件.xyz/candymuj.jar","searchable":1,"quickSearch":1,"filterable":1},
      
 
     
 		
-		{"key":"csp_BTPiaoHua","name":"🎦飘花","type":3,"api":"csp_BTPiaoHua","jar":"http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/candymuj.jar","searchable":1},
+		{"key":"csp_BTPiaoHua","name":"🎦飘花","type":3,"api":"csp_BTPiaoHua","jar":"http://微信公众号玉玉软件.xyz/candymuj.jar","searchable":1},
     
  
 
@@ -995,6 +1003,37 @@
 		},
 	
 
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
+        {"key":"csp_AliPS","name":"📀喵狸盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TV/token.txt"},
+        {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TV/token.txt"},
+        {"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TV/token.txt"},
+        {"key": "csp_XYQHiker_影搜","name":"📀影搜(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/影搜.json"},
+        {"key": "csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(阿里网盘扫码)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/玩偶哥哥.json"},
+        {"key": "csp_XYQHikerAL_玩偶妹妹","name":"📀玩偶妹妹(阿里网盘扫码)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/玩偶妹妹.json"},
+        {"key": "csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/云盘资源.json"},
+        {"key": "csp_XYQHikerAL_云盘资源分享","name":"📀云盘资源分享(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/云盘资源分享.json"},
+        {"key": "csp_XYQHikerAL_我的小站","name":"📀我的小站(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/我的小站.json"},
+        {"key": "csp_XYQHikerAL_阿里云盘网","name":"📀阿里云盘(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/阿里云盘网.json"},
+        {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/DOVX搜索.json"},
+        {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/盘搜索.json"},
+        {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TV/token.txt"},
+        //磁力资源区
+        {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
+        {"key": "csp_New6v","name": "🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
+        {"key":"csp_SeedHub","name":"🧲SeedHub","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_KubaCL","name":"🧲酷吧电影","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_MeijuTT","name":"🧲美剧天堂","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_MeijuMi","name":"🧲美剧迷","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_BLSGod","name":"🧲80S影视","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
+        {"key": "csp_XYQHikerAL_4KHDR","name":"🧲📀4KHDR(盘/磁)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/4KHDR.json"},
+        {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/电影港磁力.json"},
+        {"key": "csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/BT天堂.json"},
+        {"key": "csp_XYQHiker_极影网","name":"🧲极影网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/极影网.json"},
+        {"key": "csp_XYQHiker_高清MP4","name":"🧲高清MP4(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/高清MP4.json"},
+        {"key": "csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/蚂蚁4K.json"},
+        {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/哔嘀影视.json"},
+        {"key": "csp_XYQHiker_磁力熊","name":"🧲磁力熊(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://微信公众号玉玉软件.xyz/box1/XYQHiker/磁力熊.json"},
         
           
            
