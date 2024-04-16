@@ -97,10 +97,6 @@
             "name": "💎喵影视线路"
         },
         {
-            "url": "https://www.macms.pro/box/3.json",
-            "name": "💎万达线路"
-        },
-        {
             "url": "https://tv.lan2wan.top/candymuj.json",
             "name": "💎看电影线路"
         },
@@ -113,6 +109,10 @@
             "name": "🏄️夜猫子线路"
         },
         {
+            "url": "http://sinopacifichk.com/box/56.txt",
+            "name": "🏄️太平洋线路"
+        },
+        {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
             "name": "🏄️高天流云"
         },
@@ -123,10 +123,6 @@
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🏄️巧技线路"
-        },
-        {
-            "url": "http://www.wya6.cn/tv/yc.json",
-            "name": "🏄️无意线路"
         }
     ]
 }

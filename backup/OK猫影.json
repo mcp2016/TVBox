@@ -1,5 +1,5 @@
 {
-  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;7111f54214a835d3f5ba4632b99dad56",
+  "spider": "https://jihulab.com/okcaptain/kko/-/raw/main/okjpg.txt;md5;ac551cce349eb553b8db0f1771faa8bb",
   "wallpaper":"https://jihulab.com/okcaptain/kko/-/raw/main/w1.jpg",
 
   "sites": [
@@ -55,7 +55,7 @@
     {"key":"泥巴","name":"🛫泥巴┃直连","type":3,"api":"csp_NiNi","searchable":1,"changeable":1,"timeout":10},
 
     {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"timeout":10},
-    {"key":"jrkjs","name":"⚽Jrk┃球迷","type":3,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
+    {"key":"jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/jrs.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
     {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/310.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
     {"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/huyazhibo.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},
     {"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/douyuzhibo.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0,"timeout":10},

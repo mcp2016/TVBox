@@ -1,5 +1,5 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-14/2024-04-14_22:07:09/1713103629657/91782912/wex.txt;md5;9ef672851163831a5b0f9b59abf384c5",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-15/2024-04-15_15:08:31/1713164911747/77541936/wex.txt;md5;18eedce2077dc99c909607aa71ff50ac",
   
   
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
@@ -50,6 +50,14 @@
       "name": "🥷玩偶┃网盘┃综合",
       "type": 3,
       "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "土豆",
+      "name": "🥷土豆┃网盘┃综合",
+      "type": 3,
+      "api": "csp_Wextudou",
       "searchable": 1,
       "changeable": 1
     },
