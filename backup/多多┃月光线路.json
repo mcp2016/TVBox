@@ -134,7 +134,7 @@
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
 				"免嗅": "0"
 			}
-		}, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
+		},{"key":"Wo4k","name":"🌙玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./pg.jar"}, {"key":"Bt0","name":"🌙不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1","jar":"./pg.jar"},
 		{
 			"key": "Bdys_spider",
 			"name": "🌙哔滴┃磁力",

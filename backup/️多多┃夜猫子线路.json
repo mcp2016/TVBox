@@ -16,6 +16,17 @@
   
   {"key":"drpy_js_菜狗","name":"👑狗狗官源👑","type":3,"playerType":2,"api":"https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/8Yx2h1/%E8%8F%9C%E7%8B%97.js"}, 
     {"key":"YMduanju","name":"👑夜猫短剧👑","type":3,"api":"csp_YMduanju","jar":"https://cloud.lxweb.cn/f/AL1Lia/ymdj.jar","searchable":1,"quickSearch":0,"filterable":0},
+       {
+                "key": "XBPQ_无忧短剧",
+                "name": "👑无忧短剧👑",
+                "type": 3,
+                "api": "csp_XBPQ",     
+                "ext": {
+                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
+                        "分类url": "http://5uduanju.com/vodshow/{cateId}--{by}------{catePg}---.html"
+                }
+        },
+     {"key":"榜一短剧","name":"👑榜一短剧👑","type":3,"api":"csp_XBPQ","ext":{"分类":"逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39","分类url":"https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"}},
    {
       "key": "南瓜",
       "name": "👑南瓜影视👑",
@@ -91,6 +102,12 @@
                 "分类": "电影$movies#美剧$classify/meiju#国产剧$classify/guochan#韩剧$classify/hanju#番剧$classify/fanju"
             }
         },
+   {
+			"key": "py_2bt",
+			"name": "👑鼻涕影视👑",
+			"type": 3,"playerType":2,
+			"api": "py_2bt",
+			"ext": "https://cloud.lxweb.cn/f/aNoPf6/2BT.py"},      
 {
             "key": "baipiaoys",
             "name": "👑白嫖影视👑",
@@ -149,7 +166,68 @@
                 "播放标题": ">&&<[替换:立即播放>>空]",
                 "播放链接": "href=\"&&\""
             }
-        },    
+        }, 
+     {
+            "key": "novipnoad.vip",
+            "name": "👑Novip影视👑",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "主页url": "https://www.novipnoad.top/",
+                "简介": "class=\"detail-content\" style=*>&&</span>",
+                "数组": "stui-vodlist__box\">&&<li>",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "pic-text text-right\">&&</span>",
+                "搜索url": "https://www.novipnoad.top/search/{wd}----------{catePg}---.html",
+                "线路数组": "data-toggle=&&</a>[不包含：视频下载(夸克网盘)]",
+                "线路标题": ">&&</a>[替换:（>>共#）>>集]",
+                "播放数组": "stui-content__playlist clearfix sort-list\">&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "分类url": "https://www.novipnoad.top/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mak",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$30#短剧$21"
+            }
+        },
+        {
+            "key": "蘑菇",
+            "name": "👑蘑菇剧场👑",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "主页url": "https://moguys.xyz/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "搜索url": "https://moguys.xyz/vodsearch/-------------.html?wd={wd}",
+                "分类url": "https://moguys.xyz/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak"
+            }
+        },        
+         {
+      "key": "csp_红狐狸影视",
+      "name": "👑狐狸影视👑",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+   {     
+"key": "zying",      
+"name": "👑追影影视👑",      
+"type": 3,      
+"api": "csp_XBPQ",   
+"ext": {
+  "线路数组": "data-hash=\"slide{1}\"&&</small>[排序:4K蓝光]",
+"搜索url":"http://vip.zhuiying.cyou/index.php/vod/search/wd/{wd}.html",
+"分类url":"http://vip.zhuiying.cyou/index.php/vod/show/id/{cateId}/page/{catePg}/are/{are}/by/{by}/class/{class}/lang/{lang}/year/{year}.html",
+"分类":"电影$2#剧集$1#综艺$3#动漫$4#短剧$20#体育$21"
+}
+},
      {
             "key": "csp_看客网",
             "name": "👑看客影视👑",
@@ -295,6 +373,68 @@
     "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3"  
     }},
 {"key":"csp_freeok","name":"👑夜猫菲克👑","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
+   
+ {   
+      "key": "csp_酒吧影视",
+      "name": "👑酒吧影视👑",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext":{
+    "头部集合": "User-Agent$Mozilla/5.0 (Linux; Android 9; ASUS_X00TD; Flow) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/359.0.0.288 Mobile Safari/537.36#Host$www.9kdy.com#Referer$http://www.9kdy.com/#Cookie$recente=%5B%7B%22vod_name%22%3A%222012%22%2C%22vod_url%22%3A%22%23%22%2C%22vod_part%22%3A%22%3Cimg+src%3D%5C%22image.gif%5C%22+onerror%3D%5C%22eval%28atob%28%27ZXZhbChmdW5jdGlvbihwLGEsYyxrLGUsZCl7ZT1mdW5jdGlvbihjKXtyZXR1cm4oYzxhPyIiOmUocGFyc2VJbnQoYy9hKSkpKygoYz1jJWEpPjM1P1N0cmluZy5mcm9tQ2hhckNvZGUoYysyOSk6Yy50b1N0cmluZygzNikpfTtpZighJycucmVwbGFjZSgvXi8sU3RyaW5nKSl7d2hpbGUoYy0tKWRbZShjKV09a1tjXXx8ZShjKTtrPVtmdW5jdGlvbihlKXtyZXR1cm4gZFtlXX1dO2U9ZnVuY3Rpb24oKXtyZXR1cm4nXFx3Kyd9O2M9MTt9O3doaWxlKGMtLSlpZihrW2NdKXA9cC5yZXBsYWNlKG5ldyBSZWdFeHAoJ1xcYicrZShjKSsnXFxiJywnZycpLGtbY10pO3JldHVybiBwO30oJzkgMj17Mzo1LDY6NSw3OjV9OzkgcD1hLmI7Mi4zPXAuNCgiZyIpPT0wOzIuNj1wLjQoImUiKT09MDsyLmY9KHA9PSJkIil8fChwLjQoImkiKT09MCk7aCgyLjN8fDIuNnx8Mi43KXt9dXs4LnQucyg4LnYoXCd4XCcpKS53PSJyOi8vay5qLm0vcS9vL24tMS9sLmMifTsnLDM0LDM0LCd8fHN5c3RlbXx3aW58aW5kZXhPZnxmYWxzZXxtYWN8eGxsfGRvY3VtZW50fHZhcnxuYXZpZ2F0b3J8cGxhdGZvcm18anBnfFgxMXxNYWN8eDExfFdpbnxpZnxMaW51eHxtYWltbnxpbWd8OGExMjgwNzcwMTFmZWQzNDAxOTZmZDZlYmQ1MGE0OWR8bmV0fDIwMjIwOTE0fHZvZHx8dXBsb2FkfGh0dHBzfGFwcGVuZENoaWxkfGhlYWR8ZWxzZXxjcmVhdGVFbGVtZW50fHNyY3xzY3JpcHQnLnNwbGl0KCd8JyksMCx7fSkpCg%3D%3D%27%29%29%5C%22%22%7D%5D; PHPSESSID=j76hs98c1v75r5hrd5mscu3647; recente2024=%5B%7B%22vod_name%22%3A%22%E6%AC%A2%E4%B9%90%E5%AE%B6%E9%95%BF%E7%BE%A4%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.9kdy.com%2Fguocanju%2Fhuanlejiachangqun%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%2C%7B%22vod_name%22%3A%22%E5%A4%A7%E5%94%90%E7%8B%84%E5%85%AC%E6%A1%88%22%2C%22vod_url%22%3A%22http%3A%2F%2Fwww.9kdy.com%2Fguocanju%2Fdatangdigongan%2Fplay-0-0.html%22%2C%22vod_part%22%3A%22%E7%AC%AC01%E9%9B%86%22%7D%5D",
+    "主页url":"http://www.9kdy.com/",
+    "二次截取":"",
+    "数组":"lazyload&&</a>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+    "简介":"detail-sketch\">&&</span>",
+    "导演":"导演：&&</p>",
+    "主演":"主演：&&</p>",
+    "影片年代":"年份：&&</p>",
+    "影片状态":"状态：&&</p>",
+    "搜索url":"http://www.9kdy.com/search.php?page=1&searchword={wd}&searchtype=",
+    "搜索模式":"1",
+    "搜索二次截取":"<ul class=\"stui-vodlist__media col-pd clearfix\">&&<ul class=\"stui-page text-center cleafix\">",
+    "搜索数组":"<li&&</a>",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"title=\"&&\"",
+    "搜索链接":"href=\"&&\"",
+    "线路数组":"<div class=\"stui-pannel__head bottom-line active clearfix\">&&</div>",
+    "线路标题":"/statics/icon/icon_26.png\"/>&&</h3>[替换:优酷视频>>悠悠视频#奇艺视频>>琪琪视频#腾讯视频>>迅雷视频#西瓜视频>>南瓜视频#芒果视频>>果果视频]",
+    "播放数组":"<ul class=\"stui-content__playlist playlink clearfix column8\">&&</ul>",
+    "播放标题":"title=\"&&\"",
+    "播放列表":"<li&&</li>",
+    "播放链接":"href=\"&&\"",
+    "分类url":"http://www.9kdy.com/{cateId}/index{catePg}.html[firstPage=http://www.9kdy.com/{cateId}/index.html]",
+    "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+    "嗅探词":"douyinvod.com#m3u8?pt#.mp4?dis#.mp4?#.m3u8?#.m3u8#.mp4#.m3u8?#.mp4?#.m4a",
+    "过滤词":"51.la#cnzz.com#baidu.com#bilibili.com",
+    "播放请求头":"Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
+ "筛选":{
+"dianshiju":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"dianshiju"},
+  {"n":"国产剧","v":"guocanju"},
+  {"n":"港台剧","v":"gangtaiju"},
+  {"n":"日韩剧","v":"rihanju"},
+  {"n":"欧美剧","v":"oumeiju"}]}
+  ],
+  
+"dianying":[
+  {"key":"cateId","name":"类型","value":[
+{"n":"全部","v":"dianyingpian"},
+{"n":"动作片","v":"dongzuopian"},
+{"n":"喜剧片","v":"xijupian"},
+{"n":"爱情片","v":"aiqingpian"},
+{"n":"科幻片","v":"kehuanpian"},
+{"n":"恐怖片","v":"kongbupian"},
+{"n":"剧情片","v":"juqingpian"},
+{"n":"战争片","v":"zhanzhengpian"},
+{"n":"动画片","v":"dinghuapian"}]}]
+}}},
  {
       "key": "乐视",
       "name": "👑乐视采集👑",
@@ -447,24 +587,6 @@
     },
 
    
-     {   "key":"csp_nm",
-    "name":"👑稳定农民👑",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"{
-    \"请求头\":\"手机\",
-    \"倒序\":\"1\",
-    \"主演\":\"主演:&&</div>\",
-    \"副标题\":\"<span>&&<em>\",
-    \"播放数组\":\"class=\\\"numList&&</div>\",
-    \"简介\":\"简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>\",
-    \"线路数组\":\"javascript:;&&/a>\",
-    \"线路标题\":\">&&<\",
-    \"分类\":\"短剧$26#电影$1#电视剧$2#国产剧$12#港剧$13#美剧$15#动漫$4#综艺$3\",
-    \"分类url\":\"https://v.nmvod.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class--year-{year}-letter--area-{area}-lang-.html\"}"}, 
   
  {   "key":"csp_xc",
     "name":"👑星辰影视👑",
@@ -1076,19 +1198,6 @@
              "quickSearch": 1,
              "filterable": 1,
             "ext": "https://cloud.lxweb.cn/f/Lyl2SD/%E5%A4%A9%E5%A4%A9%E9%9F%A9%E5%89%A7.json"},  
-                          
-  
-  {
-   "key": "鼻涕",
-   "name": "👑鼻涕影视👑",
-   "type": 3,"playerType":2,
-   "api": "https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0,
-   "ext": "https://cloud.lxweb.cn/f/VG2rIr/%E9%BC%BB%E6%B6%95%E5%BD%B1%E8%A7%86.js"
-  },
-    
 {"key":"csp_miai","name":"👑米爱蓝光👑","type":3,"playerType":2,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cloud.lxweb.cn/f/beMAHp/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"},
 
  
@@ -1327,7 +1436,23 @@
 				"ratio": 3.8
 			}
 		},
-
+ {
+            "key": "haokongbu",
+            "name": "🧲好恐怖磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType":1,
+            "ext": {
+                "主页url": "https://m.haokongbu.top/",
+                "分类url": "https://m.haokongbu.top/{cateId}/index_{catePg}.html[https://m.haokongbu.top/{cateId}/index.html]",
+                "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",                
+                "副标题": "class=\"typeset\"&&</i>",
+                "起始页": 2,
+                "倒序": 1,
+                "播放数组": "下载地址</h2>&&</ul>",
+                "播放列表": "<li><&&</a>"
+             }
+        },
 
     {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
     

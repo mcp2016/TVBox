@@ -2,16 +2,16 @@
 
 {
 "wallpaper":"./t/",
-"spider":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;4642bf29455e1bbc92414086532ff5b3","warningText":"欧歌提示:
+"spider":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21","warningText":"欧歌提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
 
-"lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/index2.html","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://o.nxog.top/m/tv/","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
 "sites": [
 {"key":"豆瓣2","name":"📢欧歌榜单o.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢欧歌公告❤更新:4/16❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
+{"key":"豆瓣1","name":"📢欧歌公告❤更新:4/18❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;18ee45921e80c33623b4c0561970666a","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
 
@@ -27,6 +27,10 @@
 {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.ikanbot.com"},
 {"key":"天天","name":"💡天天┃影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn"},
 {"key":"厂长","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me"},
+{"key":"明日影视","name":"💡明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1},
+{"key":"腐剧视频","name":"💡腐剧┃视频","type":3,"api":"csp_WexFujutv","searchable":1,"changeable":1},
+{"key":"文才影视","name":"💡文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
+
 //app
 {"key":"鸭奈飞","name":"😎奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
@@ -118,10 +122,11 @@
 {"key":"drpy_js_88看球","name":"⚽88看球","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/88.js"},
 
 //短剧
-{"key":"短剧网","name":"🐞短剧1┃短剧","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"横版影院","name":"🐞短剧2┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-{"key":"短剧","name":"🐞短剧3┃短剧","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod"},
-{"key":"短剧侠","name":"🐞短剧4┃短剧","type":3,"api":"csp_XBPQ","ext":{"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"}},
+
+{"key":"秒播短剧","name":"🐞短剧1┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
+{"key":"极品短剧","name":"🐞短剧2┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
+{"key":"横版影院","name":"🐞短剧3┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+
 //动漫
 {"key":"稀饭动漫","name":"🐞稀饭┃动漫","type":3,"api":"csp_Xifan","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"樱花动漫","name":"🐞樱花┃动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
