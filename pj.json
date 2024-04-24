@@ -12,7 +12,7 @@
             "filterable": 0
         },
         {
-            "key": "玩偶",
+            "key": "玩偶1",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,
             "api": "csp_WoGG",
@@ -24,6 +24,54 @@
                 "quarkCookie": "tvfan/cookie.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://api.wogg.xyz/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "玩偶2",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://wogg.xyz/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "玩偶3",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://www.wogg.net/",
+                "danMu": "弹"
+            }
+        },
+        {
+            "key": "玩偶4",
+            "name": "👽玩偶哥哥┃4K弹幕",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "aliToken": "tvfan/token.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
         },
