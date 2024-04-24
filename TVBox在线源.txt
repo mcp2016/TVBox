@@ -91,6 +91,7 @@ https://epg.pw/xmltv.html?lang=zh-hant
 ========================================zyplayer======================================== 
 基础设置->数据管理->一键配置->软件接口---地址[https://zy.hiram.top/easyconfig.json]->导入
 基础设置->数据管理->配置导入->远端导入---地址[https://zy.hiram.top/config.json]->导入
+https://zy.catni.cn/config_v3.json
 http://xiaoguozitv.cn/catys/zyplay.json
 https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
 https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json
