@@ -1,5 +1,6 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-23/2024-04-23_01:29:21/1713806961847/69695830/wex.txt;md5;42ce8c5f91a8b8b2f8f48e3c52e3927b",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_22:27:52/1714055272414/88340903/wex.txt;md5;b2160310e1a54807295c369aa54f7196",
+
 
 
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
@@ -69,14 +70,6 @@
       "searchable": 1,
       "changeable": 1
     },
-	{
-      "key": "Wexalist",
-      "name": "💘丫丫┃alist┃秒播",
-      "type": 3,
-      "api": "csp_Wexalist",
-      "searchable": 1,
-      "changeable": 1
-    },
     {
       "key": "賤賤",
       "name": "📓賤片┃盒子┃P2P",
@@ -117,15 +110,6 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "Tiantianys",
-      "name": "🌤天天┃影视┃App",
-      "type": 3,
-      "api": "csp_WexTiantianys",
-      "searchable": 1,
-      "changeable": 1
-    },
-
 	{
       "key": "mingriyingshi",
       "name": "☀️明日┃影视┃App",
@@ -143,6 +127,14 @@
       "changeable": 1
     },
 	{
+      "key": "Wexhanxiaoquan",
+      "name": "🇰🇷韩圈┃TV┃App",
+      "type": 3,
+      "api": "csp_Wexhanxiaoquan",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
       "key": "Wexhanjutv",
       "name": "🇰🇷韩剧┃TV┃App",
       "type": 3,
@@ -150,6 +142,7 @@
       "searchable": 1,
       "changeable": 1
     },
+
 	{
       "key": "Fangniu4k",
       "name": "👎放牛┃TV┃App",
@@ -307,14 +300,6 @@
       "changeable": 1
     },
     {
-      "key": "Wexduanjuvip",
-      "name": "🌸短劇┃精品┃直连",
-      "type": 3,
-      "api": "csp_Wexduanjuvip",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "Wexduanjuvop",
       "name": "🌸短劇┃秒播┃直连",
       "type": 3,
@@ -375,6 +360,18 @@
       "api": "csp_WexTwobt",
       "searchable": 1,
       "changeable": 0
+    },
+	{
+      "key": "Wexliyuan",
+      "name": "🎎戏曲┃看呗┃秒播",
+      "type": 3,
+      "api": "csp_Wexliyuan",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
     },
     {
       "key": "Wextangdou",
@@ -810,7 +807,16 @@
     {
         "name": "综合",
         "type": 0,
-        "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-21/2024-03-21_01:12:05/1710954725395/37626265/live1213.txt",
+        "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt",
+        "playerType": 1,
+        "ua": "okhttp/3.15",
+        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+         "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+        "name": "IPV4",
+        "type": 0,
+        "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt",
         "playerType": 1,
         "ua": "okhttp/3.15",
         "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
