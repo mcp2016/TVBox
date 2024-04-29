@@ -1,5 +1,6 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_22:27:52/1714055272414/88340903/wex.txt;md5;b2160310e1a54807295c369aa54f7196",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf",
+
 
 
 
@@ -56,7 +57,7 @@
     },
 	{
       "key": "土豆",
-      "name": "🥷土豆┃网盘┃综合",
+      "name": "🥔土豆┃网盘┃综合",
       "type": 3,
       "api": "csp_Wextudou",
       "searchable": 1,
@@ -67,6 +68,22 @@
       "name": "🦜鸟巢┃网盘┃综合",
       "type": 3,
       "api": "csp_Wexyingchao",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexwanni",
+      "name": "🧑‍🏫玩你┃老哥┃阿里",
+      "type": 3,
+      "api": "csp_Wexwanni",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexwanwo",
+      "name": "🧑‍⚖️玩我┃哥哥┃阿里",
+      "type": 3,
+      "api": "csp_Wexwanwo",
       "searchable": 1,
       "changeable": 1
     },
@@ -316,6 +333,14 @@
       "changeable": 1
     },
 	{
+      "key": "顶级4K",
+      "name": "🛩️顶级┃4K┃P2P",
+      "type": 3,
+      "api": "csp_Wexwo4k",
+      "searchable": 1,
+      "changeable": 0
+    },
+	{
       "key": "BT",
       "name": "🛩️BT┃之家┃P2P",
       "type": 3,
@@ -432,6 +457,18 @@
       "searchable": 1,
       "changeable": 0
     },
+	{
+      "key": "Wexwuxiang",
+      "name": "🌐格斗┃给力┃体育",
+      "type": 3,
+      "api": "csp_Wexwuxiang",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
     {
       "key": "看球",
       "name": "🌐88┃看球┃体育",
@@ -477,7 +514,8 @@
 	"type":3,
 	"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
 	"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
-	},   
+	}, 
+	
     {
       "key": "櫻花",
       "name": "🤡櫻花┃动漫",
@@ -519,10 +557,10 @@
       "changeable": 0
     },
     {
-      "key": "七夜",
-      "name": "🎠七夜┃阿里┃搜",
+      "key": "Wexed3000",
+      "name": "🎠易迪┃阿里┃搜",
       "type": 3,
-      "api": "csp_Dovx",
+      "api": "csp_Wexed3000",
       "searchable": 1,
       "changeable": 0
     },
@@ -559,13 +597,12 @@
       "changeable": 0
     },
     {
-      "key": "找資源",
-      "name": "🎠找資源┃阿里┃搜",
+      "key": "搜吧",
+      "name": "🎠搜吧┃综合┃搜",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_Wexyingso",
       "searchable": 1,
-      "changeable": 0,
-      "ext": "影視天下第一$$$test2$$$test2"
+      "changeable": 0
     },
 	{
       "key": "Wexyingso",

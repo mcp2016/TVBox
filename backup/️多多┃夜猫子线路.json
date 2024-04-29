@@ -16,17 +16,18 @@
   
   {"key":"drpy_js_菜狗","name":"👑狗狗官源👑","type":3,"playerType":2,"api":"https://git.acwing.com/Xymz/ymz/-/raw/main/drpy2.min.js","ext":"https://cloud.lxweb.cn/f/8Yx2h1/%E8%8F%9C%E7%8B%97.js"}, 
     {"key":"YMduanju","name":"👑夜猫短剧👑","type":3,"api":"csp_YMduanju","jar":"https://cloud.lxweb.cn/f/AL1Lia/ymdj.jar","searchable":1,"quickSearch":0,"filterable":0},
-       {
-                "key": "XBPQ_无忧短剧",
-                "name": "👑无忧短剧👑",
-                "type": 3,
-                "api": "csp_XBPQ",     
-                "ext": {
-                       "分类": "逆袭$1#甜宠$3#虐恋$5#穿越$7#重生$9#都市$11#现代言情$13#古装$15#古装言情$17#战神$19#神医$21#神豪$23#超能$25#萌宝$27#复仇$29#脑洞$31#赘婿$33#玄幻$35#热血$37#其他$39",
-                        "分类url": "http://5uduanju.com/vodshow/{cateId}--{by}------{catePg}---.html"
-                }
-        },
-     {"key":"榜一短剧","name":"👑榜一短剧👑","type":3,"api":"csp_XBPQ","ext":{"分类":"逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39","分类url":"https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"}},
+     {"key":"短剧tv","name":"👑采集短剧👑","type":3,"api":"csp_XBPQ",
+      "ext":{
+        "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+        "线路标题":"<h3*>&&</h3>",
+        "线路数组":"\"more text-muted pull-right\">&&</ul>",
+        "播放数组":"\"more text-muted pull-right\">&&</ul>",
+        "播放链接":"http+://www.duanjutv.cc+href='&&'",
+        "直接播放": "0",
+        "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23",
+        "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
+      }
+    },
    {
       "key": "南瓜",
       "name": "👑南瓜影视👑",
@@ -107,32 +108,7 @@
 			"name": "👑鼻涕影视👑",
 			"type": 3,"playerType":2,
 			"api": "py_2bt",
-			"ext": "https://cloud.lxweb.cn/f/aNoPf6/2BT.py"},      
-{
-            "key": "baipiaoys",
-            "name": "👑白嫖影视👑",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "ext": {
-                "主页url": "https://www.baipiaoys.com:9092//",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
-                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            }
-        },
-     
+			"ext": "https://cloud.lxweb.cn/f/oJNZhY/2BT.py"},      
        {
             "key": "csp素白",
             "name": "👑素白影视👑",
@@ -242,12 +218,7 @@
                 
             }
         },      
-  {
-      "key": "橘子",
-      "name": "👑橘子影视👑",
-      "type": 3,
-      "api": "csp_YMApp",
-      "ext": "https://cloud.lxweb.cn/f/VeWjir/juzi.txt" } ,
+
         
    {"key":"rebo","name":"👑热播影视👑","type":3,"api":"csp_YMZ","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.rbotv.cn"},
      {
@@ -311,30 +282,7 @@
   "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
   "免嗅": "0" 
 }},
-{
-            "key": "baipiaoys",
-            "name": "👑白嫖影视👑",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "playerType": "2",
-            "ext": {
-                "主页url": "https://www.baipiaoys.com:9092//",
-                "副标题": "pic-text text-right\">&&</b>",
-                "搜索模式": "1",
-                "搜索url": "https://www.baipiaoys.cc/search.html?wd={wd}",
-                "图片": "data-original=\"&&\"",
-                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
-                "导演": "导演：&&</div>",
-                "主演": "主演：&&</div>",
-                "分类": "短剧$4#电影$1#电视剧$2#动漫$3#综艺$5",
-                "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-            }
-        },
+
          {
     "key": "YMcz",
     "name": "👑夜猫厂长👑",
@@ -342,7 +290,7 @@
     "api": "csp_YMCz",
     "searchable": 1,
     "changeable": 0,
-    "ext": "https://www.czys01.com@@夜猫子专用"
+    "ext": "https://www.czys.top@@夜猫子专用"
  },
    {"key":"圣城影视","name":"👑圣城影视👑","type":3,"api":"csp_XBPQ",
  "searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":  {  

@@ -45,7 +45,7 @@
 			"searchable": 0,
 			"changeable": 0,
 			"ext":"./lib/tokenm.json","jar": "./pg.jar"
-		},
+		},{"key": "bpys","name": "🌙宝盒┃影视","type": 3,"api": "csp_BaiPiao" ,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"ext": "https://www.baipiaoys.com:9092/","jar": "./bp.jar"},
      {"key":"drpy_js_荐片","name":"🌙荐片|磁力","type":3,"api":"./lib/drpy2.min.js","ext":"./js/jp.js"}, {"key":"畅梦","name":"🌙宝盒|秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
  {"key": "csp_XBPQ_6V",
   "name": "🌙宝盒|4K",
@@ -61,26 +61,6 @@
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://122.228.84.103:5822/api.php/app/"
-    },{
-      "key": "bp",
-      "name": "🌙️白嫖┃影视",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-   "jar":"./lib/XBPQ.jar",
-      "ext": {
-        "主页url": "https://www.baipiaoys.com:9092",
-        "副标题": "pic-text text-right\">&&</b>",
-        "搜索模式": "1",
-        "搜索url": "https://www.baipiaoys.com:9092/search.html?wd={wd}",
-        "图片": "data-original=\"&&\"",
-        "嗅探词": ".mp4#m3u8#.m3u8",
-        "线路标题": "🌙宝盒专享",
-        "线路数组": "🌙宝盒专享",
-        "分类": "电影$1#电视剧$2#动漫$3",
-        "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
-      }
     },{"key":"Wogg","name":"💿玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},{ "key": "Ikanbot", "name": "🌙爱看|机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy","jar":"./pg.jar"},{
       "key": "saohuo",
       "name": "🌙骚火┃电影",
@@ -152,6 +132,18 @@
             "type": 3,
             "api": "./lib/drpy.min.js",
             "ext": "./lib/ddg.js"
+        },{
+      "key": "网飞影视",
+      "name": "🌙网飞|影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/wf.js"
+    },{
+            "key": "drpy_js_黑木耳资源",
+            "name": "🌙木耳|影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/mr.js"
         },
        {
       "key": "csp_圣城",
