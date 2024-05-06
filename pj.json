@@ -28,21 +28,6 @@
             }
         },
         {
-            "key": "玩偶old",
-            "name": "👽玩偶哥哥old",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.xyz/",
-                "danMu": "弹"
-            }
-        },
-        {
             "key": "YGP",
             "name": "🚀叨观荐影┃新片",
             "type": 3,
