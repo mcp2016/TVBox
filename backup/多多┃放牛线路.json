@@ -1,9 +1,6 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-28/2024-04-28_21:15:06/1714310106536/14566542/wex.txt;md5;a9ca595cbe9eddc75bbfc01fd1944adf",
-
-
-
-
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-05/2024-05-05_20:36:48/1714912608541/68262102/wex.txt;md5;1cb1c363b301e6b8b6c44f3e036e640e",
+ 
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "sites": [
     {
@@ -45,6 +42,17 @@
 	  "style": {
         "type": "rect",
         "ratio": 1.43
+        }
+    },
+	{
+      "key": "自定义",
+      "name": "🥇DIY┃播放┃全能",
+      "type": 3,
+      "api": "csp_Wexdiy",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "list"
         }
     },
 	{
@@ -410,6 +418,42 @@
         "ratio": 2
         }
     },
+	{
+      "key": "Wexbaobaobashi",
+      "name": "👼宝宝┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wexbaobaobashi",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wexbeiwa",
+      "name": "👼贝贝┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wexbeiwa",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wextuxiaobei",
+      "name": "👼兔兔┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wextuxiaobei",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
     {
       "key": "Pandalivetv",
       "name": "😍韩国┃美女┃直播",
@@ -600,7 +644,7 @@
       "key": "搜吧",
       "name": "🎠搜吧┃综合┃搜",
       "type": 3,
-      "api": "csp_Wexyingso",
+      "api": "csp_Wexbtso",
       "searchable": 1,
       "changeable": 0
     },

@@ -799,7 +799,8 @@
       "ext": "https://notabug.org/dongchenys/pt/raw/json/json/PG推送.json"
     },
 
-
+{"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0},
 
 
     {
@@ -1388,7 +1389,10 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "欢迎入群详见公众号入群须知！接口完全免费，切勿付费购买。",
+  "warningText": "欢迎各位兄弟姐妹，五一快乐！ 欢迎入群，详见公众号入群须知！
+📢接口软件永远免费 
+📢长期维护切勿贩卖",
+
   "spider": "http://52pan.top:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94"
 }
 
