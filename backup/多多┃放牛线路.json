@@ -1,7 +1,9 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-05/2024-05-05_20:36:48/1714912608541/68262102/wex.txt;md5;1cb1c363b301e6b8b6c44f3e036e640e",
+  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:36:00/1715092560821/98403025/wex.txt;md5;ad24d79dcf824cc86c1e367311b87334",
+
  
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
+  "logo": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:41:43/1715092903264/8105189/photo_2024-03-12_12-01-41.jpg",
   "sites": [
     {
 	  "key":"Douban",
@@ -39,6 +41,7 @@
       "api": "csp_Wexconfig",
       "searchable": 0,
       "changeable": 0,
+	  "indexs": 0,
 	  "style": {
         "type": "rect",
         "ratio": 1.43
@@ -84,14 +87,6 @@
       "name": "🧑‍🏫玩你┃老哥┃阿里",
       "type": 3,
       "api": "csp_Wexwanni",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
-      "key": "Wexwanwo",
-      "name": "🧑‍⚖️玩我┃哥哥┃阿里",
-      "type": 3,
-      "api": "csp_Wexwanwo",
       "searchable": 1,
       "changeable": 1
     },
@@ -173,14 +168,6 @@
       "name": "👎放牛┃TV┃App",
       "type": 3,
       "api": "csp_WexFangniu4k",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
-      "key": "Kuyun77",
-      "name": "7️⃣小七┃影视┃App",
-      "type": 3,
-      "api": "csp_WexKuyun77",
       "searchable": 1,
       "changeable": 1
     },
@@ -411,6 +398,18 @@
       "name": "💃跳舞┃玩呗┃教学",
       "type": 3,
       "api": "csp_Wextangdou",
+      "searchable": 1,
+      "changeable": 0,
+	  	  "style": {
+        "type": "rect",
+        "ratio": 2
+        }
+    },
+	{
+      "key": "Wexergeduoduo",
+      "name": "👼多多┃儿歌┃秒播",
+      "type": 3,
+      "api": "csp_Wexergeduoduo",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {

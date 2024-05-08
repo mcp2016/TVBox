@@ -4,7 +4,7 @@
 
 
 {
-	"spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8B3B442DD2C646DC326FC37A402430F7",
+	"spider": "http://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A49875C67BCACC40C0AA74D85F06F019",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -25,7 +25,6 @@
 {"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pw/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🏚️在线","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.xb6v.com/"},
 {"key":"csp_Anime1","name":"🌸动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},

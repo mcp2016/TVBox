@@ -95,6 +95,11 @@
 //{"key":"两个BT","name":"🎦两个BT","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable": 1,"ext":"./lib/bttwo.json"},
 
 {"key": "VIP影视","name": "🎦VIP┃2K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/VIPyingshi.json"},
+{"key":"123影视","name":"🎦123影视","type":3,"api":"csp_XBPQ","ext":{"简介":"剧情介绍: +video-info-content vod_content\">&&</div>","线路数组":"module-tab-item tab-item\" data-dropdown-value=&&</div>","分类url":"https://www.idc123.xyz/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$dy#国产剧$guochanju#电视剧$juji#动漫$dongman#综艺$zongyi"}}, 
+{"key":"看片狂人","name":"🎦看片狂人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-time------{catePg}---{year}--.html[https://www.kpkuang.one/vodtype/{cateId}/]","分类":"国产剧$13#电影$1#连续剧$2#综艺$3#动漫$4"}},
+       {"key": "晨光电影","name": "🎦晨光电影","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +white-space: initial;\">&&</div>","数组":"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>","图片":"data-original=\"&&\"","标题":"fed-visible fed-part-eone\" href=*>&&</a>","副标题":"fed-text-white fed-text-center\">&&</span>","线路数组":"fed-drop-btns fed-padding fed-col-xs3 fed-col-md2\">&&</li>","分类url": "https://www.cgdyw.net/s/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"}},
+{"key": "高清在线","name": "🎦高清在线","type": 3,"api": "csp_XBPQ","ext": {"简介":"剧情介绍: +stui-pannel_bd\">&&</div>","线路数组":"stui-pannel__head bottom-line active clearfix\">&&</div>","分类url": "https://www.gxfiber.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$duanju#电视剧$dsj#电影$dy#动漫$dm#综艺$zy"}},
+
 {"key":"lzi","name":"🎦量子资源","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/liangzi.json"},
 {"key":"非凡资源","name":"🎦非凡资源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ffzy.json"},
 {"key":"拳皇争霸","name":"🎦拳皇争霸","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/quanhuang.js"},
@@ -176,17 +181,7 @@
       "name": "影视",
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
-    },
-{"name": "云API","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="},
-		{"name":"爱酷","type":1,"url":"http://42.157.129.139:7788/json/aiku.php?url=","ext":{"flag":["seven","mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"Lavf/58.12.100"}}},
-		{"name":"巧技","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
-		{"name": "四五","type": 1,"url": "https://cache.json.icu/5555.php?url="},
-		{"name": "解析","type": 1,"url": "https://cache.json.icu/a1804857380.php?url="},
-		{"name": "八九","type": 0,"url": "https://www.8090g.cn/jiexi/?url="},
-		{"name": "柒柒","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-		{"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
-		{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
-		{"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="}
+    }
 	],	
     "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],
 	"doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
