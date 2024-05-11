@@ -1,7 +1,8 @@
 {
-  "spider": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:36:00/1715092560821/98403025/wex.txt;md5;ad24d79dcf824cc86c1e367311b87334",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc",
 
- 
+
+
   "wallpaper": "https://放牛.王二小放牛娃.xyz/img.php",
   "logo": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:41:43/1715092903264/8105189/photo_2024-03-12_12-01-41.jpg",
   "sites": [
@@ -262,14 +263,6 @@
       "searchable": 1,
       "changeable": 1
 	  
-    },
-	{
-      "key": "Wexbaipiao",
-      "name": "💢白嫖┃影视┃直连",
-      "type": 3,
-      "api": "csp_Wexbaipiao",
-      "searchable": 1,
-      "changeable": 1
     },
 	{
       "key": "哔嘀影视",

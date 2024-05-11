@@ -29,6 +29,17 @@
         "分类链接":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m"
       }
     },
+     {
+            "key": "77",
+            "name": "👑新奇秒播👑",
+            "type": 3,"jar": "https://git.acwing.com/Xymz/ymz/-/raw/main/77.jar",
+            "api": "csp_AppEight",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "https://api.kpyun6.cn"
+        },
    {
       "key": "南瓜",
       "name": "👑南瓜影视👑",
@@ -38,7 +49,15 @@
       "quickSearch": 1,
       "playerType": 2  
     },
-      
+     {
+    "key": "厂长zy",
+    "name": "👑夜猫厂长👑",
+    "type": 3,
+    "api": "csp_YMCz",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 0
+}, 
        {"key":"忍者","name":"👑夜猫忍者👑","type":3,"api":"csp_YMRZ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},   
    {
       "key":"酷看",
@@ -51,7 +70,7 @@
       "filterable":1,
       "jar":"https://cloud.lxweb.cn/f/8bXJF1/kkys.jar"
       },
-   {"key":"baipiao","name":"👑白嫖影视👑","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"主页url":"https://www.baipiaoys.com:9092/","副标题":"pic-text text-right\">&&</b>","搜索模式":"1","搜索url":"https://www.baipiaoys.com:9092/search.html?wd={wd}","图片": "data-original=\"&&\"","嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演:&&</div>","主演":"主演:&&</div>","分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"}},
+  
    {
 		"key": "360资源",
 		"name": "👑卫士资源👑",
@@ -343,15 +362,6 @@
   "免嗅": "0" 
 }},
 
-         {
-    "key": "YMcz",
-    "name": "👑夜猫厂长👑",
-    "type": 3,
-    "api": "csp_YMCz",
-    "searchable": 1,
-    "changeable": 0,
-    "ext": "https://www.czys.top@@夜猫子专用"
- },
    {"key":"圣城影视","name":"👑圣城影视👑","type":3,"api":"csp_XBPQ",
  "searchable":1,"quickSearch":1,"filterable":0,"playerType":1,"ext":  {  
     "站名":"圣城影视", 
@@ -378,7 +388,7 @@
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;akm",
-    "分类":"短剧$21#电视剧$2#电影$1#动漫$4#奈飞片库$20#综艺$3"  
+    "分类":"电视剧$2#电影$1#动漫$4#综艺$3"  
     }},
 {"key":"csp_freeok","name":"👑夜猫菲克👑","type":3,"jar": "https://cloud.lxweb.cn/f/8MJyc1/fk.jar","api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
    

@@ -2,7 +2,7 @@
 
 {
 "wallpaper":"./t/",
-"spider":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;72882de184eefbff3f3ae24e062e01d9","warningText":"欧歌提示:
+"spider":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;59f3f76c511c3b7bcae01147c5b5afc4","warningText":"欧歌提示:
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 
@@ -11,7 +11,7 @@
 
 "sites": [
 {"key":"豆瓣2","name":"📢欧歌榜单o.nxog.top","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢欧歌公告❤更新:5/7❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;0541e021a35158a77f4b6f90b16f9760","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
+{"key":"豆瓣1","name":"📢欧歌公告❤更新:5/10❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;0541e021a35158a77f4b6f90b16f9760","ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/?b=欧歌"},
 
 
 //jar🎄🛶🎄🎃💘💖💖
@@ -28,11 +28,11 @@
 {"key":"韩剧视频","name":"💡韩剧┃影视","type":3,"api":"csp_Wexhanjutv","searchable":1,"changeable":1},
 {"key":"酷云七七","name":"💡七七┃影视","type":3,"api":"csp_WexKuyun77","searchable":1,"changeable":1},
 {"key":"文才影视","name":"💡文才┃影视","type":3,"api":"csp_Wexwencai","searchable":1,"changeable":1},
-{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
+//{"key":"白嫖影视","name":"💡白嫖┃影视","type":3,"api":"csp_Wexbaipiao","searchable":1,"changeable":1},
 {"key":"影探蓝光","name":"💡影探┃影视","type":3,"api":"csp_WexYingtan4k","searchable":1,"changeable":1},
 {"key":"厂长资源","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top"},
 {"key":"低端影视","name":"💡低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
-
+{"key":"素白白","name":"💡素白┃影视","type":3,"api":"csp_Subaibai","searchable":1,"changeable":1},
 
 
 //app
@@ -50,7 +50,6 @@
 {"key":"bkyy","name":"🎃布卡┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"副标题":"公众号欧歌APP","分类url":"https://www.gtrgt.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#电影解说$21#伦理$23"}},
 
 //js
-
 {"key":"南瓜影视2","name":"🎄南瓜┃影视2","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/101.js"},
 {"key":"茶杯狐","name":"🎄茶杯┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/102.js"},
 {"key":"畅梦影视","name":"🎄畅梦┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/103.js"},
@@ -81,8 +80,9 @@
 {"key":"Mp4电影","name":"💘Mp4电影┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷吧电影","name":"💘酷吧┃磁力","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"美剧天堂","name":"💘美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1},
+ 
  //采集
-
+ 
 {"key":"红牛资源","name":"🎀红牛┃采集","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","台湾剧","泰剧","韩剧","纪录片","动漫电影"]},
 {"key":"极速资源","name":"🎀极速┃采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},{"key":"快车资源","name":"🎀快车┃采集","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
 {"key":"索尼资源","name":"🎀索尼┃采集","type":1,"api":"https://suoniapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片","动画片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
@@ -120,17 +120,10 @@
 {"key": "球类","name": "⚽️球类合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/球类合集.json"}, 
 {"key": "球星","name": "⚽️球星合集","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/球星合集.json"}, 
 
-
 //短剧
-
-{"key":"秒播短剧","name":"🐞短剧1┃短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1},
-{"key":"极品短剧","name":"🐞短剧2┃短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1},
-{"key":"横版影院","name":"🐞短剧3┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-{"key":"精品短剧","name":"🐞短剧4┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1},
-
-
+{"key":"短剧1","name":"🐞短剧1┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"短剧2","name":"🐞短剧2┃短剧","type":3,"api":"csp_XBPQ","ext": {"分类":"短剧$42","分类url":"https://ork.ink/show/{cateId}--------{catePg}---{year}.html"}},
 //py
-
 {"key":"py_cctv","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://o.nxog.top/m/py/py_cctv.json"},
 {"key":"py_m1905","name":"🇨🇳电影┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://o.nxog.top/m/py/m1905.json"},
 {"key":"py_返老还童","name":"🇨🇳动漫┃PY","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://o.nxog.top/m/py/py_kt30.json"},{"key": "应用商店","name": "🛒影视应用商店","type": 3,"jar":"http://o.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;0541e021a35158a77f4b6f90b16f9760","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
