@@ -170,11 +170,11 @@ CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d902
 安徽卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://223.151.51.74:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,https://epg.pw/stream/80d1988862ff0162fdab6745b126a3a69d563855cbc5df750cd96b6424ea16a1.m3u8
+安徽卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山西卫视,rtmp://live-stream.lsxrmtzx.com/live/video
 广东卫视,http://223.151.51.74:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
 广东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
@@ -240,7 +240,6 @@ CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d902
 贵州卫视,http://223.151.51.74:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
 贵州卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-辽宁卫视,https://epg.pw/stream/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8
 辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
