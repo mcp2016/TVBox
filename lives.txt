@@ -305,7 +305,6 @@ CHC影迷电影,https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d902
 咪咕直播E1,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 咪咕直播E2,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
 咪咕直播E3,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播E4,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
 🆕｜NewTV,#genre#
 东北热剧,http://[2409:8087:1a0b:df::4017]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
