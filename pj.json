@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715980119184/fan.txt;md5;f4a9956bae884c4a952da9152c0ed446",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716742624054/fan.txt;md5;31e6192040d63714d063d5a5aba287a9",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -56,6 +56,17 @@
             "changeable": 1
         },
         {
+            "key": "原创",
+            "name": "☀原创┃不卡",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "视觉",
             "name": "👓视觉┃多线",
             "type": 3,
@@ -67,17 +78,6 @@
             "ext": "https://www.80yy3.com/"
         },
         {
-            "key": "南瓜",
-            "name": "🎃南瓜┃多线",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
             "type": 3,
@@ -87,14 +87,15 @@
             "changeable": 1
         },
         {
-            "key": "原创",
-            "name": "☀原创┃不卡",
+            "key": "糯米",
+            "name": "🍙糯米┃秒播",
             "type": 3,
-            "api": "csp_YCyz",
+            "api": "csp_Nmys",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
         },
         {
             "key": "厂长",
@@ -109,15 +110,25 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "糯米",
-            "name": "🍙糯米┃秒播",
+            "key": "低端",
+            "name": "⏮️低端┃外剧",
             "type": 3,
-            "api": "csp_Nmys",
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "zxzj",
+            "name": "🍊在线┃外剧",
+            "type": 3,
+            "api": "csp_Zxzj",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+            "ext": "https://www.zxzjhd.com/"
         },
         {
             "key": "小点",
@@ -162,22 +173,12 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
-            "key": "zxzj",
-            "name": "🍊在线┃外剧",
+            "key": "南瓜",
+            "name": "🎃南瓜┃多线",
             "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_NanGua",
             "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "低端",
-            "name": "⏮️低端┃外剧",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -198,6 +199,17 @@
             "name": "🍄比特┃秒播",
             "type": 3,
             "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "可可",
+            "name": "👻可可┃多线",
+            "type": 3,
+            "api": "csp_Kekys",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -427,8 +439,22 @@
             }
         },
         {
+            "key": "米搜",
+            "name": "🦋米搜┃搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
+        },
+        {
             "key": "夸搜",
-            "name": "🐺夸搜┃搜索",
+            "name": "🐌夸搜┃搜索",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
@@ -458,19 +484,6 @@
             "name": "🦊盘搜┃搜索",
             "type": 3,
             "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
-            }
-        },
-        {
-            "key": "UpYun",
-            "name": "😻Up搜┃搜索",
-            "type": 3,
-            "api": "csp_UpYun",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -648,6 +661,7 @@
             ]
         }
     ],
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
         {
             "playerType": 1,

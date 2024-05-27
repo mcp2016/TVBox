@@ -183,7 +183,6 @@
 			"playerType": 1,
 			"ext": "http://op.ysdqjs.cn$$$null$$$1","jar": "./pg.jar"
 		},
-	 {"key":"360_spider","name":"🌙360|影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
         {"key":"csp_Kuaikan","name":"🌙快看|影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
        {
       "key": "49zy",
