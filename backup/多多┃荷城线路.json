@@ -2,9 +2,9 @@
 
 "spider":"./hccx/HeChengChaXiu.jar",
 
-//"spider":"./hccx/HeChengChaXiu.jar",
+//"spider":"./hccx/",
 
-"wallpaper":"http://rihou.cc:88/壁纸",
+"wallpaper":"http://rihou.cc:88/荷城茶秀/壁纸.php",
 
 "lives":[{"name":"live","type":0,"url":"./hccx/zb.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 

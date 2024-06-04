@@ -7,23 +7,21 @@
 
 {"key": "运动","name": "💜吾爱运动 | 公众号 吾爱电视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/175220/%E5%90%BE%E7%88%B1%E8%BF%90%E5%8A%A8.json?sign=oYzKNaZqBSUOi2qPuBFL9yOUTBTaGyaaFZGRY-_zzgE%3D%3A0","spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 
-
-{"key":"t5-douban","name":"影视-豆瓣(t5)","type":4,"api":"https://catbox.n13.club/t5/douban.php"},
-{"key":"t5-yugaopian","name":"影视-预告片(t5)","type":4,"api":"https://catbox.n13.club/t5/yugaopian.php"},
-{"key":"t5-剧圈","name":"影视-剧圈(t5)","type":4,"api":"https://catbox.n13.club/t5/juquan.php"},
-{"key":"t5-黑狐","name":"影视-黑狐(t5)","type":4,"api":"https://catbox.n13.club/t5/heihu.php"},
-{"key":"t5-jp","name":"影视-荐片(t5)","type":4,"api":"https://catbox.n13.club/t5/jianpian.php"},
-{"key":"t5-南瓜","name":"影视-南瓜(t5)","type":4,"api":"https://catbox.n13.club/t5/nangua.php"},
-{"key":"t5-极光","name":"影视-极光(t5)","type":4,"api":"https://catbox.n13.club/t5/jiguang.php"},
-{"key":"t5-caiji","name":"影视-采集(t5)","type":4,"api":"https://catbox.n13.club/t5/caiji.php"},
-{"key":"t5-wencai","name":"影视-文才(t5)","type":4,"api":"https://catbox.n13.club/t5/wencai.php"},
-{"key":"t5-xinshijue","name":"影视-新视觉(t5)","type":4,"api":"https://catbox.n13.club/t5/xinshijue.php"},
-{"key":"t5-saohuo","name":"影视-骚火(t5)","type":4,"api":"https://catbox.n13.club/t5/saohuo.php"},
-{"key":"t5-jojo","name":"影视-jojo(t5)","type":4,"api":"https://catbox.n13.club/t5/jojo.php"},
-{"key":"t5-mingri","name":"影视-明日(t5)","type":4,"api":"https://catbox.n13.club/t5/mingri.php"},
-{"key":"t5-6v","name":"磁力-6V(t5)","type":4,"api":"https://catbox.n13.club/t5/6v.php"},
-{"key":"t5-哔嘀","name":"磁力-哔嘀(t5)","type":4,"api":"https://catbox.n13.club/t5/bdys.php"},
-
+{"key":"t6-douban","name":"影视-豆瓣(t6)","type":4,"api":"https://catbox.n13.club/t6/douban.php"},
+{"key":"t6-yugaopian","name":"影视-预告片(t6)","type":4,"api":"https://catbox.n13.club/t6/yugaopian.php"},
+{"key":"t6-剧圈","name":"影视-剧圈(t6)","type":4,"api":"https://catbox.n13.club/t6/juquan.php"},
+{"key":"t6-黑狐","name":"影视-黑狐(t6)","type":4,"api":"https://catbox.n13.club/t6/heihu.php"},
+{"key":"t6-jp","name":"影视-荐片(t6)","type":4,"api":"https://catbox.n13.club/t6/jianpian.php"},
+{"key":"t6-南瓜","name":"影视-南瓜(t6)","type":4,"api":"https://catbox.n13.club/t6/nangua.php"},
+{"key":"t6-极光","name":"影视-极光(t6)","type":4,"api":"https://catbox.n13.club/t6/jiguang.php"},
+{"key":"t6-caiji","name":"影视-采集(t6)","type":4,"api":"https://catbox.n13.club/t6/caiji.php"},
+{"key":"t6-wencai","name":"影视-文才(t6)","type":4,"api":"https://catbox.n13.club/t6/wencai.php"},
+{"key":"t6-xinshijue","name":"影视-新视觉(t6)","type":4,"api":"https://catbox.n13.club/t6/xinshijue.php"},
+{"key":"t6-saohuo","name":"影视-骚火(t6)","type":4,"api":"https://catbox.n13.club/t6/saohuo.php"},
+{"key":"t6-jojo","name":"影视-jojo(t6)","type":4,"api":"https://catbox.n13.club/t6/jojo.php"},
+{"key":"t6-mingri","name":"影视-明日(t6)","type":4,"api":"https://catbox.n13.club/t6/mingri.php"},
+{"key":"t6-6v","name":"磁力-6V(t6)","type":4,"api":"https://catbox.n13.club/t6/6v.php"},
+{"key":"t6-哔嘀","name":"磁力-哔嘀(t6)","type":4,"api":"https://catbox.n13.club/t6/bdys.php"},
 
   {
       "key": "演唱会",
@@ -1390,7 +1388,7 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "欢迎各位兄弟姐妹，五一快乐！ 欢迎入群，详见公众号入群须知！
+  "warningText": "欢迎各位兄弟姐妹，六一快乐！ 欢迎入群，详见公众号入群须知！
 📢接口软件永远免费 
 📢长期维护切勿贩卖",
 

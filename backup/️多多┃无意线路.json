@@ -1,16 +1,14 @@
 {
-  "spider": "http://www.wya6.cn/tz/wyz.php;md5;8a6d3aafbfc1769dd1939f98742d5b06",
+  "spider": "http://www.wya6.cn/tz/wyz.php;md5;31e6192040d63714d063d5a5aba287a9",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "无意云整合，请勿付费购买！",
   "sites": [
     {
-      "key": "豆豆",
-      "name": "无意云┃摸鱼",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+        "key":"豆瓣2",
+        "name":"无意云┃摸鱼",
+        "type":3,
+        "api":"csp_Douban",
+        "searchable":0
     },
     {
         "key":"荐片",
@@ -24,20 +22,6 @@
         "filterable":1,
         "ext":"http://api2.rinhome.com"
         
-    },
-    {
-      "key": "Wexconfig",
-      "name": "无意云┃配置中心",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "jar": "http://www.wya6.cn/tz/wyfnx.php",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
     },
     {
       "key": "csp_KungFu404",
@@ -55,8 +39,8 @@
       "name": "无意云┃直播",
       "type": 3,
       "searchable": 0,
-      "api": "https://raw.gitcode.com/wykj/ca/raw/main/js/live2vod.js",
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/feimaolive.json"
+      "api": "https://gitee.com/wynp/ys/raw/master/js/live2vod.js",
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/feimaolive.json"
     },
     {
       "key": "玩偶",
@@ -1088,26 +1072,6 @@
       "api": "https://weixine.net/js/lib/drpy2.min.js",
       "ext": "https://weixine.net/js/caigou.js"
     },
-    { 
-       "key":"稀饭动漫",
-       "name":"无意云┃稀饭┃动漫",
-       "type":3,
-       "api":"csp_Wexxifan",
-       "jar": "http://www.wya6.cn/tz/wyog.php",
-       "searchable":1,
-       "changeable":1
-    },
-    {   
-       "key":"暮暮动漫",
-       "name":"无意云┃暮暮┃动漫",
-       "type":3,
-       "api":"csp_WebMuTeFun",
-       "jar": "http://www.wya6.cn/tz/wyog.php",
-       "searchable":1,
-       "quickSearch":0,
-       "filterable":0,
-       "ext":"https://www.mutefun.tv"
-    },
     {
       "key": "樱花",
       "name": "无意云┃樱花1┃动漫",
@@ -1317,7 +1281,7 @@
       "quickSearch": 0,
       "api": "csp_XBPQ",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/xiangsheng.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/xiangsheng.json"
     },
     {
       "key": "评书",
@@ -1331,7 +1295,7 @@
       "quickSearch": 0,
       "api": "csp_XBPQ",
       "jar": "http://www.wya6.cn/tz/wyxy.php",
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/pingshu.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/pingshu.json"
     },
     {
       "key": "cctv",
@@ -1385,7 +1349,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/py1.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/py1.json"
     },
     {
       "key": "py_cctvdc",
@@ -1396,7 +1360,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/py2.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/py2.json"
     },
     {
       "key": "py_m1905",
@@ -1639,7 +1603,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/blxy.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/blxy.json"
     },
     {
       "key": "学外语",
@@ -1650,7 +1614,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/waiyu.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/waiyu.json"
     },
     {
       "key": "兴趣健身",
@@ -1661,7 +1625,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/bljs.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/bljs.json"
     },
     {
       "key": "相声小品",
@@ -1672,7 +1636,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/blxs.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/blxs.json"
     },
     {
       "key": "美食",
@@ -1694,7 +1658,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.gitcode.com/wykj/ca/raw/main/json/blxq.json"
+      "ext": "https://gitee.com/wynp/ys/raw/master/json/blxq.json"
     },
     {
       "key": "Bili",
