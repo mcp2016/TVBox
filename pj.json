@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720257412206/fan.txt;md5;f525467b4eb4492638d9cce1543c0367",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -20,9 +20,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
             }
@@ -40,7 +39,7 @@
             "key": "短剧",
             "name": "🌈上头┃短剧",
             "type": 3,
-            "api": "csp_Djuu",
+            "api": "csp_Djtt",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -64,8 +63,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": {
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -112,15 +111,24 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "视觉",
-            "name": "👓视觉┃多线",
+            "key": "小点",
+            "name": "💥小点┃多线",
             "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
+            "api": "csp_Xdys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┃秒播",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "蛋蛋",
@@ -128,16 +136,6 @@
             "type": 3,
             "api": "csp_Cddys",
             "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┃秒播",
-            "type": 3,
-            "api": "csp_Jpys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -185,16 +183,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "小点",
-            "name": "💥小点┃多线",
-            "type": 3,
-            "api": "csp_Xdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "热播",
@@ -256,7 +244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://www.xb6v.com/"
+            "ext": "https://www.xb6v.com/"
         },
         {
             "key": "Dm84",
@@ -439,8 +427,8 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -453,8 +441,8 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -466,8 +454,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -479,8 +467,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -492,8 +480,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -505,8 +493,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -517,9 +505,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "aliToken": "tvfan/token.txt",
-                "quarkCookie": "tvfan/cookie.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {

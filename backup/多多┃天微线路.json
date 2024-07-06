@@ -18,9 +18,6 @@
 {"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 
-{"key": "360","name": "🇹┃飞龙秒播┃影视","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
-"动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
-
 {"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 {"key":"原创","name":"🇹┃原创影视┃秒播","type":3,"api":"csp_YCyz","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
@@ -29,17 +26,9 @@
 
 {"key":"冬瓜","name":"🇹┃冬瓜影视┃秒播","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"4K影视","name":"🇹┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"./lib/4K影视.json"},
-
-{"key":"美柏","name":"🇹┃美柏影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/美柏.json"},
-
-{"key":"兄弟影视","name":"🇹┃兄弟影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兄弟影视.json"},
-
-{"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
-
 {"key":"爱奇异","name":"🇹┃奇异官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
 
-{"key":"优酷","name":"🇹┃优酷官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+{"key":"drpy_js_优酷","name":"🇹┃优酷官源┃秒播","type": 3,"api": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://gitdl.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
 
 {"key":"腾讯","name":"🇹┃腾讯官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 
@@ -49,6 +38,21 @@
 
 {"key":"360影视","name":"🇹┃360 官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
+{"key":"4K影视","name":"🇹┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"./lib/4K影视.json"},
+
+{"key":"美柏","name":"🇹┃美柏影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/美柏.json"},
+
+{"key":"兄弟影视","name":"🇹┃兄弟影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兄弟影视.json"},
+
+{"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
+
+
+{"key": "360","name": "🇹┃飞龙秒播┃影视","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
+"动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
+
+{"key": "优质资源","name": "🇹┃飞龙优质┃秒播","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
+"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
+
 {"key":"348影视","name":"🇹┃三四八源┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
 
 {"key":"csp_五五","name":"🇹┃五五影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
@@ -56,8 +60,7 @@
 {"key": "Lib","name": "🇹┃立播夸克┃4K","type": 3,"jar": "./lib/fty.jar","api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,
 "ext": {"quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd"}},
 
-{ "key": "玩偶","name": "🇹┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","jar": "./lib/fty.jar","searchable": 1,"quickSearch": 1,"changeable": 0,
-"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
+{"key":"玩偶","name":"🇹┃玩偶哥哥┃4K","type":3,"api":"csp_WoGG","jar": "./lib/fty.jar","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
    
 {"key": "多多阿里","name":"🇹┃玩偶多多┃4K","type":3,"api":"csp_XYQHikerAL","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/多多阿里.json"},
 
@@ -201,6 +204,8 @@
 
 {"key": "Bili","name": "🅱哔哔┃合集","type": 3,"jar": "./lib/fty.jar","api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,
 "changeable": 0,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
+
+{"key": "星芽短剧","name": "🌟星芽┃短剧","type": 3,"api": "csp_AppXY","jar": "./lib/ou.jar","searchable": 1,"quickSearch": 0,"filterable": 0},
     
 {"key":"csp_Bili短剧","name":"🅱️哔哩┃短剧","type": 3,"ua": "okhttp/3.15","api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./lib/Bili短剧.json"},
 
