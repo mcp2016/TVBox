@@ -13,6 +13,8 @@
 
 {"key": "直播转点播","name": "🇹┃在线直播┃大全","type": 3,"api": "./lib/zbzdb.js","searchable": 1,"quickSearch": 0,"ua": "okhttp/3.15","playerType": 1,"filterable": 0,"ext": "./lib/zb.json"},
 
+{"key":"玩偶","name":"🇹┃玩偶哥哥┃4K","type":3,"api":"csp_WoGG","jar": "./lib/fty.jar","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
+
 {"key":"荐片","name":"🇹┃荐片官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
 
 {"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
@@ -59,8 +61,6 @@
 
 {"key": "Lib","name": "🇹┃立播夸克┃4K","type": 3,"jar": "./lib/fty.jar","api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable": 1,
 "ext": {"quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd"}},
-
-{"key":"玩偶","name":"🇹┃玩偶哥哥┃4K","type":3,"api":"csp_WoGG","jar": "./lib/fty.jar","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.link/","danMu":"弹"}},
    
 {"key": "多多阿里","name":"🇹┃玩偶多多┃4K","type":3,"api":"csp_XYQHikerAL","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/多多阿里.json"},
 
