@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣🧁加qq群154817803防失联，土豆臻享4K增加UC原画",
+      "name": "东辰🧁加qq群154817803防失联",
       "type": 3,
       "api": "csp_DouDou",
       "jar": "./lib/fan.txt",
@@ -18,7 +18,7 @@
       "name": "土豆🥔臻享4K",
       "type": 3,
       "api": "csp_Wextudou",
-      "jar": "./jar/dongchen0708.jar",
+      "jar": "./jar/dongchen0615.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -28,7 +28,7 @@
       "name":"土豆臻享4K配置中心",
       "type":3,
       "api":"csp_Wexconfig",
-      "jar": "./jar/dongchen0708.jar",
+      "jar": "./jar/dongchen0615.jar",
       "changeable":0,
       "style":{
       "type":"rect",
@@ -53,7 +53,7 @@
       "name": "转存及夸克🏬配置",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./jar/pg0426.jar",
+      "jar": "./jar/pg0726.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -108,7 +108,7 @@
        "ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./json/wogg.json"
         },
     {
-      "key": "一青叶我_开心玩偶",
+      "key": "开心玩偶",
       "name": "开心🍹臻享4K",
       "type": 3,
       "api": "csp_XYQHikerAL",
@@ -116,6 +116,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/kaixin.json"
+    },
+    {
+      "key": "蜡笔玩偶",
+      "name": "蜡笔🖍︎臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/labi.json"
     },
     {
       "key": "阿里合集",
@@ -152,7 +162,7 @@
       "name": "饭偶⛅扫码4K",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jar/fan0708.txt",
+      "jar": "./jar/fan0722.txt",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -170,7 +180,7 @@
       "type": 3,
       "api": "csp_Hdhive",
       "jar": "./jar/pg2.jar",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
@@ -192,7 +202,7 @@
       "type": 3,
       "api": "csp_XiaoZhang",
       "jar": "./jar/PG.jar",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 1,
       "filterable": 1,
       "timeout": 30,
@@ -240,7 +250,7 @@
 
     {
       "key": "蜡笔网盘",
-      "name": "蜡笔🍀臻享4K",
+      "name": "蜡笔🍀弹幕4K",
       "type": 3,
       "api": "csp_Wobg",
       "jar": "./jar/dongchenok.jar",
@@ -272,7 +282,7 @@
       "type": 3,
       "api": "csp_Xb6v",
       "jar": "./jar/pg0328.jar",
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 1,
       "timeout": 60,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.66ss.org$$$null$$$1"
@@ -330,7 +340,7 @@
       "name": "爱坤🐔蓝光",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
@@ -515,20 +525,10 @@
       "name": "茶狐🍹影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/jqqys.json"
-    },
-    {
-      "key": "4K影视",
-      "name": "4K🍹影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/4kys.json"
     },
      {
       "key": "短剧天堂",
@@ -598,7 +598,7 @@
       "name": "饭团🍚影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/fantuan.json"
@@ -681,15 +681,14 @@
       "ext": "./js/libvio.js"
     },
     {
-      "key": "Bdys_spider",
+      "key": "哔嘀",
       "name": "哔滴💧直连",
-      "api": "csp_Bdys01",
-      "jar": "./jar/fix140412.jar",
       "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
+      "api": "csp_Bdys",
+      "jar": "./jar/PandaQ240709.jar",
       "searchable": 1,
-      "ext": ""
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Kuaikan",
@@ -697,7 +696,7 @@
       "type": 3,
       "api": "csp_Kuaikan",
       "jar": "./jar/PandaQ240216.jar",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -707,7 +706,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 1,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/zizi.json"
@@ -775,7 +774,7 @@
       "name": "可可🦙蓝光",
       "type": 3,
       "playerType": 2,
-      "searchable": 1,
+      "searchable": 0,
       "api": "csp_XBPQ",
       "ext": "./json/kkys.json"
     },
@@ -864,7 +863,7 @@
       "name": "影视🏔大全",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/ysdq.json"
@@ -1224,7 +1223,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "http://rihou.vip:55/lib/Bili短剧.json"
+      "ext": "./lib/Bili短剧.json"
     },
     {
       "key": "csp_XYQHikerAL_云盘资源",
@@ -1252,7 +1251,7 @@
       "name": "夸克🛹影搜",
       "type": 3,
       "api": "csp_Wexyingso",
-      "jar": "./jar/dongchen0708.jar",
+      "jar": "./jar/dongchen0615.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1
@@ -1411,7 +1410,7 @@
     },
     {
       "key": "hl",
-      "name": "07.08接口仅测试使用",
+      "name": "07.22接口仅测试使用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
