@@ -7,6 +7,7 @@
 {"name": "live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
 "sites":[
+
 {"key": "豆瓣推荐","name": "豆瓣推荐｜公众号：天微科技","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key": "csp_KungFu404","name":"🇹┃云盘toke┃设置","type": 3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./lib/alibaba.jar","ext":"http://127.0.0.1:9978/tvbox/tok.txt+4k|fhd|auto"},
@@ -46,7 +47,8 @@
 {"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
 "filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
 
-{"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+
+{"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
 {"key":"原创","name":"🇹┃原创影视┃秒播","type":3,"api":"csp_YCyz","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 
@@ -81,6 +83,8 @@
 
 {"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
 
+{"key":"文采","name":"🇹┃文采在线┃秒播","type": 3,"api": "csp_Jpys","jar": "./lib/fty.jar","playerType": 2,"searchable": 1,"quickSearch": 1,
+"changeable": 1},
 
 {"key": "360","name": "🇹┃飞龙秒播┃影视","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
 "动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
@@ -110,8 +114,6 @@
 {"key":"非凡资源","name":"🇹┃非凡影视┃秒播","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ffzy.json"},
 
 {"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/茶狐杯.json"},
-
-{"key":"文才","name":"🇹┃文采在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/文才.json"},
 
 {"key": "畅梦","name": "🇹┃畅梦影视┃秒播","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "./lib/畅梦.js"},
   
