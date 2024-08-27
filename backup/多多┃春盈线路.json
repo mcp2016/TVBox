@@ -1,11 +1,11 @@
 {
-  "spider": "./fty.jar;md5;6569779195625775f841ee964e8cec56",
+  "spider": "./fty.jar?ref=master;md5;80004bdf8ea71093c980aa89a7d4e3d9",
   "wallpaper": "https://u.kstore.space/download/5872/a.jpg",
-  "logo":"./aishang.png",
+  "logo":"./aishang.png?ref=master",
   "sites": [
       {
       "key": "豆豆",
-      "name": "公众号:月牙猫┃爱尚影视5.0,请到公众号下载新版爱尚影视",
+      "name": "公众号:月牙猫┃QQ群:767923111,关注公众号获取最新版本",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 1,
@@ -352,8 +352,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/jp.js?ref=master"
     },
     {
       "key": "可可",
@@ -435,25 +435,22 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+   {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
       "style": {
         "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+      }
+   },
     {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/jrk.js?ref=master",
       "style": {
         "type": "list"
       },
@@ -472,14 +469,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/企鹅直播.json"
+      "ext": "./lib/企鹅直播.json?ref=master"
     },
     {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/酷奇MV.js?ref=master",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -500,7 +497,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/MTV.json"
+      "ext": "./lib/MTV.json?ref=master"
     },
     {
       "key": "csp_Yj1211",
@@ -516,8 +513,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/huya2.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/huya2.js?ref=master",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -531,8 +528,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/斗鱼直播.js?ref=master",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -546,8 +543,8 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/短视频.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/短视频.js?ref=master",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -556,8 +553,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/有声小说吧.js?ref=master",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -682,7 +679,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "./lib/bilibili.json?ref=master"
     },
     {
       "key": "Biliych",
@@ -696,14 +693,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "./lib/biliych.json?ref=master"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "./lib/drpy2.min.js?ref=master",
+      "ext": "./lib/兔小贝.js?ref=master",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -724,7 +721,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "./lib/少儿教育.json?ref=master"
     },
     {
       "key": "小学课堂",
@@ -738,7 +735,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./lib/小学课堂.json?ref=master"
     },
     {
       "key": "初中课堂",
@@ -752,7 +749,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "./lib/初中课堂.json?ref=master"
     },
     {
       "key": "高中教育",
@@ -766,7 +763,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "./lib/高中课堂.json?ref=master"
     }
   ],
   "doh": [
@@ -937,21 +934,73 @@
     }
   ],
   "lives": [
-
-    {
+        {
       "name": "春盈-爱尚-IJK",
       "type": 0,
 
-       "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8Bzb5.0.css?ref=master",
+       "url": "./cytx.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
 		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
     },
+       {
+      "name": "春盈-爱尚-exo",
+      "type": 0,
+
+      "url": "./cytx.txt?ref=master",
+      "ua": "okhttp/3.15",
+      "playerType": 2,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+
+  {
+      "name": "神仙-爱尚",
+      "type": 0,
+       "url": "http://110.40.33.162:88/zb.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+      {
+      "name": "神仙-爱尚-exo",
+      "type": 0,
+       "url": "http://110.40.33.162:88/zb.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 2,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+		//"logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
+        {
+           "name": "芸夕iptv",
+      "type": 0,
+      "url": "https://gitcode.net/maohailin_/tvbox/-/raw/main/yunxi.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
+
+      {
+           "name": "悦婵IPTV-3",
+      "type": 0,
+      "url": "https://iptv.b2og.com/txt/ycl_iptv.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
+    },
          {
            "name": "转播IPV6-1",
       "type": 0,
       "url": "https://m3u.ibert.me/txt/y_g.txt",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
+         {
+           "name": "广东吉林",
+      "type": 0,
+      "url": "./广东加吉林地方台.txt?ref=master",
       "ua": "okhttp/3.15",
       "playerType": 1,
      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"},
@@ -962,14 +1011,6 @@
       "ua": "okhttp/3.15",
       "playerType": 1,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-           "name": "悦婵IPTV-3",
-      "type": 0,
-      "url": "https://iptv.b2og.com/txt/ycl_iptv.txt",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-     "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "江西电信",
@@ -986,14 +1027,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-    },
-       {
-      "name": "",
-      "type": 0,
-      "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/cytx/raw/%E5%B9%BF%E4%B8%9C%E9%93%B6%E6%B2%B3.txt?ref=master",
-      "ua": "okhttp/3.15",
-      "playerType": 1,
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
     }
+ 
   ]
 }

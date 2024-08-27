@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722949410150/okjpg.txt;md5;7ca3b8507389c3f4ff5b6e8b0e9424fa",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724596283762/okjpg.txt;md5;e9a58d736895c7a759ac301fb02f5dea",
   "wallpaper":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314187703/w1.jpg",
   "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -33,7 +33,6 @@
     {"key":"文才","name":"🌺文才┃在线","type": 3,"api":"csp_Jpys","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10},
     {"key":"河马","name":"🦓河马┃在线","type": 3,"api":"csp_Oka","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10,"ext": "{\"cateUrl\":\"https://www.hemahd.com/tags/{cateId}--------{page}---.html\", \"cate\":\"电影$1#电视剧$2#动漫$3#综艺$4\", \"search\":\"/sou/{search}-------------.html\"}"},
     {"key":"桃子","name":"🍑桃子┃在线","type": 3,"api":"csp_Oka","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10,"ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items .module-tab-item span\",\"playUrl\":\".module-list .module-play-list\", \"search\":\"/search/{search}-------------.html\", \"webview\":1}"},
-    {"key":"可可","name":"😝可可┃在线","type": 3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1, "timeout": 10,"ext": "{\"cateUrl\":\"https://www.keke1.app/show/{cateId}-----3-{page}.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$6\",\"playFrom\":\".swiper-slide .source-item span\",\"playUrl\":\".episode-box-main .episode-list\", \"search\":\"/search?k={search}\"}"},
     {"key":"荐片","name":"⚔️荐片┃手机","type": 3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
     {"key":"JOJO","name":"🍭JOJO┃直连","type": 3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"timeout": 10},
     {"key":"无忧短剧","name":"🌈无忧┃短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},

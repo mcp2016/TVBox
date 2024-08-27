@@ -37,14 +37,14 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
+        "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
     },
 
 {"key": "360zy","name": "拾光☪360","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
-{"key": "hipy_js_采集之王[合]","name": "拾光☪采集王","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
+{"key": "hipy_js_采集之王[合]","name": "拾光☪采集王","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=../lib/采集静态.json"},
 
 
 {"key":"剧圈圈","name":"拾光☪剧圈","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},

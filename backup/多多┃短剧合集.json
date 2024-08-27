@@ -6,31 +6,41 @@
 //parses解析类型		0，嗅探，自带播放器；1，解析，返回直链
 //其他说明ua:用户代理,epg:节目网址,logo:台标网址,boot:是否自动开启
 
-{"spider":"./pg.jar",
+{"spider":"./YSC.jar",
 "sites":[
 {"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_秒播短剧","name":"🍡秒播短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"./spider_0523.jar"},
-{"key":"csp_极品短剧","name":"🍡极品短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1,"jar":"./spider_0523.jar"},
 {"key":"csp_无忧短剧","name":"🍡无忧短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"jar":"./danmu.jar"},
-{"key":"csp_星芽短剧","name":"🍡星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./spider_0523.jar"},
-{"key":"河马短剧","name":"🍡河马短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1,"jar":"./spider_0523.jar"},
-{"key":"短剧tv","name":"🍡短剧tv","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html","线路标题":"<h3*>&&</h3>","线路数组":"\"more text-muted pull-right\">&&</ul>","播放数组":"\"more text-muted pull-right\">&&</ul>","播放链接":"http+://www.duanjutv.cc+href='&&'","分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m","分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},"jar":"./XBPQ.jar"},
 {"key":"短剧吧","name":"🍡短剧吧","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi","分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"},
-{"key":"短剧天堂","name":"🍡短剧天堂","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅": "0","嗅探词": ".mp4#.m3u8#.flv","分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类ID":"/vodtype/&&.html"},"jar":"./XBPQ.jar"},
-{"key":"网盘配置","name":"👨‍🍳‍配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json"},
+{"key":"短剧tv","name":"🍡短剧tv","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html","线路标题":"<h3*>&&</h3>","线路数组":"\"more text-muted pull-right\">&&</ul>","播放数组":"\"more text-muted pull-right\">&&</ul>","播放链接":"http+://www.duanjutv.cc+href='&&'","分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m","分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},"jar":"./XBPQ.jar"},
+{"key":"hipy_js_短剧TV网","name":"短剧TV网_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧TV网.js"},
+{"key":"短剧天堂","name":"🍡短剧天堂","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅":"0","嗅探词":".mp4#.m3u8#.flv","分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类ID":"/vodtype/&&.html"},"jar":"./XBPQ.jar"},
+{"key":"hipy_js_短剧天堂","name":"短剧天堂_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧天堂.js"},
+{"key":"fty-短剧","name":"🌈短剧天堂[影视]_SP","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fty_0805.jar"},
+{"key":"csp_秒播短剧","name":"🍡秒播短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
+{"key":"Wexduanjuhema","name":"🍡河马短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
+{"key":"Wexduanjuv1mp","name":"🍡极品短剧","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
+{"key":"vipWexduanju","name":"🌸精品短剧","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
+{"key":"Wexduanjuvip","name":"🌸良品短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
+{"key":"星芽短剧","name":"🍡星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./spider0529.jar"},
+{"key":"星芽短剧1","name":"🏅星芽","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"./xc_0805.jar"},
 {"key":"QuarkShare1","name":"🔵东风短剧分享8000+","type":3,"api":"csp_QuarkShare","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/quarkshare_TZ.txt","style":{"type":"list","ratio":1.1},"jar":"./pg0512.jar"},
 {"key":"csp_HK_91短剧","name":"🔥91短剧[影视]_XYQHiker","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/91duanju.json","jar":"./XYQ.jar"},
 {"key":"drpy_短剧","name":"🔥热门短剧[影视]_DRPY","type":3,"playerType":1,"api":"./lib/zbzdb.js","searchable":1,"quickSearch":0,"filterable":0,"ext":"./duanju.json"},
 {"key":"rarbt1","name":"🔴rarbt","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","线路数组":"\"module-tab-itemtab-item\"&&</div>","分类":"短剧$duanju","分类url":"https://www.rarbt.fun/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html"},"jar":"./XBPQ.jar"},
-{"key":"新视觉影院","name":"🔴新视觉影院","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","二次截取":"\"module-items\"&&\"module-footer\"+\"module-item\"","数组":"\"module-item-cover\"&&\"module-item\"","副标题":"module-item-text\">&&</div>","播放数组":"\"scroll-content\"&&</div>","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","分类":"短剧$59","分类url":"https://www.6080yy4.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},"jar":"./XBPQ.jar"},
+{"key":"新视觉影院","name":"🔴新视觉影院","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","二次截取":"\"module-items\"&&\"module-footer\"+\"module-item\"","数组":"\"module-item-cover\"&&\"module-item\"","副标题":"module-item-text\">&&</div>","播放数组":"\"scroll-content\"&&</div>","线路数组":"data-dropdown-value=&&</div>[不包含:夸克]","分类":"短剧$59","分类url":"https://www.6080yy3.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"},"jar":"./XBPQ.jar"},
 {"key":"毒舌影视","name":"🔴毒舌影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","数组":"module-item&&</a>","副标题":"v-item-bottom\">&&</div>","图片":"https+://vres.a357899.cn+data-original=\"&&\"","导演":"导演:&&","演员":"演员:</div>&&</div>[替换:/>>空#更新>>更新]","影片年代":"首映:</div>&&</div>","简介":"class=\"detail-desc\">&&</p>","线路数组":"source-item\">&&</a>[排序:蓝光>超清]","线路标题":"<spanclass=\"source-item-label\">&&</span>+-+source-item-num\">&&</i>[替换:线路>>空]","搜索url":"https://www.dushe7.app/search?k={wd}&page={pg}","地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","剧情":"[替换:伦理>>NETFLIX]","排序":"综合$1#最新$2#最热$3#评分$4","分类":"短剧$6","分类url":"https://www.dushe7.app/show/{cateId}-{class}-{area}--{year}-{by}-{catePg}.html"},"jar":"./XBPQ.jar"},
 {"key":"555zxdy","name":"🔴555zxdy","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"短剧$45","分类url":"https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar":"./XBPQ.jar"},
 {"key":"csp_XBPQ_vstv","name":"🔴VS短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"短剧$5"},"jar":"./XBPQ.jar"},
-{"key":"短剧网","name":"🔴短剧网","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"}
+{"key":"短剧网","name":"🔴短剧网","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"},
+{"key":"hipy_短剧天堂","name":"🏅短剧[影视]_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":87,"ext":"./js/短剧天堂.js"},
+{"key":"hipy_js_星芽短剧","name":"🏅星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星芽短剧.js"},
+{"key":"hipy_js_榜一短剧","name":"🏅榜一短剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/榜一短剧.js"},
+{"key":"T4-mmdj","name":"短剧-MM(T4)","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"}
+
 ],
 //电视直播
 "lives":[
-{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"live","type":0,"url":"","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "rules":[
 {"host":"dyxs20.com","rule":[".m3u8"]},

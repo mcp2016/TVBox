@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 //
-{"spider": "./lib/tvkj.jar",
+{"spider": "./lib/ttkx.jar",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "logo": "https://qixing.myhkw.com/tw.jpg",
  "lives": [
@@ -14,7 +14,146 @@
 
 {"key":"Alist","name":"🇹┃小雅网盘┃大全","type":3,"api":"csp_AList",    "parse_url": "","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "./lib/小雅.json"},
 
-{"key":"cctv","name":"🇨🇳┃央视频道┃大全","type":3,"api":"csp_CCTV","jar": "./lib/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},
+{"key":"小点","name":"🇹┃点点影视┃秒播","type":3,"api":"csp_Appxd","searchable":1,"quickSearch":1,"changeable":0,"ext":"FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="},
+
+    {
+      "key": "农民影视",
+      "name": "🇹┃理想影视┃秒播",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+{"key": "天天弹幕版","name": "🇹┃天天蓝光┃弹幕","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,
+"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+
+    {
+      "key": "✨YY影视✨",
+      "name": "🇹┃天微专享┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "天微专享✨+module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "天微✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "天微✨+>&&</",
+        "简介": "【公众号：天微科技】提醒：请勿相信视频里的广告！+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      }
+    },
+        {
+      "key": "csp_LiteApple",
+      "name": "🇹┃苹果影视┃蓝光",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_LiteApple",
+      "jar": "./lib/xm.jar",
+      "playerType": 1,
+      "filterable": 1
+    },
+
+    {"key":"荐片","name":"🇹┃荐片官源┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
+
+    {"key":"文采","name":"🇹┃文采影视┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+{"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
+"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
+
+
+{"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+
+{"key":"原创","name":"🇹┃原创影视┃秒播","type":3,"api":"csp_YCyz","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+
+{"key": "南瓜弹幕版","name": "🇹┃南瓜影视┃弹幕","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+
+{"key":"南瓜","name": "🇹┃南瓜影视┃秒播","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/nangua.js"},
+
+{"key": "厂长弹幕版","name": "🇹┃厂长蓝光┃弹幕","type": 3,"api": "csp_Czzy","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,
+"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 25},
+
+{"key":"冬瓜","name":"🇹┃冬瓜影视┃秒播","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"爱奇异","name":"🇹┃奇异官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+
+{"key":"优酷","name":"🇹┃尤酷官源┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+
+{"key":"腾讯","name":"🇹┃疼讯官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
+
+{"key":"芒果","name":"🇹┃忙果官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+
+{"key":"搜狗","name":"🇹┃嗖狗官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
+
+{"key":"360影视","name":"🇹┃370 官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+
+    {
+      "key": "影视仓",
+      "name": "🇹┃七星影仓┃秒播",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
+    },
+
+{"key":"4K影视","name":"🇹┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"./lib/4K影视.json"},
+
+    {
+      "key": "freeok",
+      "name": "🇹┃freeok线┃秒播",
+      "type": 3,
+      "jar": "./lib/xm.jar",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "api": "csp_FreeOK"
+    },
+
+       {
+      "key": "蚂蚁",
+      "name": "🇹┃蚂蚁影视┃秒播",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "国产动漫",
+        "动画电影",
+        "网络电影",
+        "动作片",
+        "喜剧片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "武侠片",
+        "奇幻片",
+        "国产综艺"
+      ]
+    },
+
+    {"key":"cctv","name":"🇨🇳┃央视频道┃大全","type":3,"api":"csp_CCTV","jar": "./lib/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"./lib/央视大全.json"},
 
 {"key": "py_cctv","name": "🇨🇳┃央视大全┃影仓","ua": "okhttp/3.15","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/cctv.py"},
 
@@ -40,42 +179,36 @@
       }
     },
 
+        {
+      "key": "hipy_js_4K-AV",
+      "name": "🇹┃4K-AV-PY┃T3",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/4K-AV.js"
+    },
 
-{"key": "天天弹幕版","name": "🇹┃天天蓝光┃弹幕","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,
-"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-
-{"key": "hipy_js_采集之王[合]","name": "🇹┃天微采集┃大全","type": 3,"api": "./lib/drpy_libs/drpy2.min.js","searchable": 1,"quickSearch": 1,
-"filterable": 1,"order_num": 210,"ext": "./lib/采集之王.js?type=url&params=./lib/采集静态.json"},
-
-
-{"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
-
-{"key":"原创","name":"🇹┃原创影视┃秒播","type":3,"api":"csp_YCyz","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
-
-{"key": "南瓜弹幕版","name": "🇹┃南瓜影视┃弹幕","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-
-{"key":"南瓜","name": "🇹┃南瓜影视┃秒播","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/nangua.js"},
-
-{"key": "厂长弹幕版","name": "🇹┃厂长蓝光┃弹幕","type": 3,"api": "csp_Czzy","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,
-"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 25},
-
-{"key":"冬瓜","name":"🇹┃冬瓜影视┃秒播","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},
-
-{"key":"荐片","name":"🇹┃荐片官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/jianpian.js"},
-
-{"key":"爱奇异","name":"🇹┃奇异官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
-
-{"key":"优酷","name":"🇹┃尤酷官源┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
-
-{"key":"腾讯","name":"🇹┃疼讯官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
-
-{"key":"芒果","name":"🇹┃忙果官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
-
-{"key":"搜狗","name":"🇹┃嗖狗官源┃秒播","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
-
-{"key":"360影视","name":"🇹┃370 官源┃秒播","type":3,"ua": "okhttp/3.15","api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-{"key":"4K影视","name":"🇹┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"./lib/4K影视.json"},
+        {
+      "key": "csp_wanou",
+      "name": "🇹┃玩偶自建┃4K",
+      "api": "csp_Wogg",
+      "jar": "./lib/xm.jar",
+      "type": 3,
+      "searchable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "changeable": 0,
+      "ext": {
+        "site_urls": [
+          "https://wogg.xxooo.cf/",
+          "https://www.wogg.bf/",
+          "https://www.wogg.net/"
+        ]
+      }
+    },
 
 {"key":"美柏","name":"🇹┃美柏影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/美柏.json"},
 
@@ -256,8 +389,12 @@
 
 {"key":"喜马拉雅","name":"📚️听书┃喜马","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/ximalaya.js"},
 
-{"key": "dr_兔小贝","name": "🇹┃教育专区┃启蒙","type": 3,"api": "./api/drpy2.min.js","ext": "./js/兔小贝.js","style": {"type": "rect","ratio": 1.597},"searchable": 0,
-"quickSearch": 0,"changeable": 0},
+
+{"key": "csp_XYQHiker_兔小贝","name":"🇹┃兔小贝一┃启蒙","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝.json"},
+
+{"key": "csp_XYQHiker_兔小贝2","name":"🇹┃兔小贝二┃启蒙","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":1,"filterable":1,"ext":"./lib/兔小贝2.json"},
+
+{"key": "csp_XYQHiker_播视童趣","name":"🇹┃教育专区┃童趣","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./lib/播视童趣.json"},
 
 {"key": "少儿教育","name": "🇹┃教育专区┃儿童","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,
 "ext": "./json/少儿教育.json"},
@@ -285,6 +422,40 @@
         //{"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Web聚合","type":3,"url":"Web"},
         {"name":"解析失败自己换","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+
+    {
+      "name": "七星解析",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+
               {
       "name": "天微科技",
       "type": 1,
