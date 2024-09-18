@@ -7,21 +7,6 @@
 
 {"key": "运动","name": "💜吾爱运动 | 公众号 吾爱电视","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52pan.top:81/api/v3/file/get/175220/%E5%90%BE%E7%88%B1%E8%BF%90%E5%8A%A8.json?sign=oYzKNaZqBSUOi2qPuBFL9yOUTBTaGyaaFZGRY-_zzgE%3D%3A0","spider":"http://52pan.top:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
 
-{"key":"t9-douban","name":"影视-豆瓣(t9)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
-{"key":"t9-yugaopian","name":"影视-预告片(t9)","type":4,"api":"https://catbox.n13.club/t9/yugaopian.php"},
-{"key":"t9-剧圈","name":"影视-剧圈(t9)","type":4,"api":"https://catbox.n13.club/t9/juquan.php"},
-{"key":"t9-黑狐","name":"影视-黑狐(t9)","type":4,"api":"https://catbox.n13.club/t9/heihu.php"},
-{"key":"t9-jp","name":"影视-荐片(t9)","type":4,"api":"https://catbox.n13.club/t9/jianpian.php"},
-{"key":"t9-南瓜","name":"影视-南瓜(t9)","type":4,"api":"https://catbox.n13.club/t9/nangua.php"},
-{"key":"t9-极光","name":"影视-极光(t9)","type":4,"api":"https://catbox.n13.club/t9/jiguang.php"},
-{"key":"t9-caiji","name":"影视-采集(t9)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
-{"key":"t9-wencai","name":"影视-文才(t9)","type":4,"api":"https://catbox.n13.club/t9/wencai.php"},
-{"key":"t9-xinshijue","name":"影视-新视觉(t9)","type":4,"api":"https://catbox.n13.club/t9/xinshijue.php"},
-{"key":"t9-saohuo","name":"影视-骚火(t9)","type":4,"api":"https://catbox.n13.club/t9/saohuo.php"},
-{"key":"t9-jojo","name":"影视-jojo(t9)","type":4,"api":"https://catbox.n13.club/t9/jojo.php"},
-{"key":"t9-mingri","name":"影视-明日(t9)","type":4,"api":"https://catbox.n13.club/t9/mingri.php"},
-{"key":"t9-6v","name":"磁力-6V(t9)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
-{"key":"t9-哔嘀","name":"磁力-哔嘀(t9)","type":4,"api":"https://catbox.n13.club/t9/bdys.php"},
 
   {
       "key": "演唱会",
@@ -709,15 +694,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_Ying",
-      "name": "💮樱花┃动漫",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  
  
     {
       "key": "PanSou",
