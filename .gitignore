@@ -1,0 +1,17 @@
+.idea/
+auth.iws
+.ideaDataSources/
+*.iml
+*.ipr
+*.iws
+auth.iws
+logs/
+local.properties
+/auth-app/src/main/resources/application-own.properties
+~/
+.DS_Store
+.settings
+.project
+.classpath
+/auth-app/src/main/resources/application-opensource.yml
+/fengruan-move
