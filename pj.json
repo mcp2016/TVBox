@@ -624,13 +624,33 @@
         }
     ],
     "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
-    "lives": [{
-        "playerType": 1,
-        "name": "鹏九直播",
-        "logo": "https://epg.112114.xyz/logo/{name}.png",
-        "type": 0,
-        "ua": "okhttp/3.15",
-        "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-        "url": "https://mcp2016.github.io/TVBox/lives.txt"
-    }]
+    "lives": [
+        {
+            "playerType": 1,
+            "name": "鹏九直播",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://mcp2016.github.io/TVBox/lives.txt"
+        },
+        {
+            "playerType": 1,
+            "name": "鹏九直播(惜染)",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://mpimg.cn/down.php/7593582add3646f042c0899c74db48af.txt"
+        },
+        {
+            "playerType": 1,
+            "name": "iptv-api",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "type": 0,
+            "ua": "okhttp/3.15",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt"
+        }
+    ]
 }
