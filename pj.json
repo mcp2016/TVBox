@@ -674,8 +674,8 @@
             "type": 0,
             "url": "https://mpimg.cn/down.php/602c6f4ea1da88dd2aba5e9c43d4459a.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "iptv-api",
