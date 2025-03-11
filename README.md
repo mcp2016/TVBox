@@ -6,4 +6,4 @@
 
 ------
 
-一年12块！两年20块！！！这机场你可见过，我是入了，真香！[一元机场](https://xn--4gq62f52gdss.art/#/register?code=BeE38sNs)
+一年12块！两年20块！！！这机场你可见过，我是入了，真香！[一元机场](https://xn--4gq62f52gdss.ink/#/register?code=BeE38sNs)

@@ -1,14 +1,6 @@
 ========================================数据源========================================
-饭太硬：
-http://饭太硬.top/tv
-http://fan.xxooo.cf/tv
-http://fan.888484.xyz/tv
-
-ok：
-http://ok321.top/ok
-https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt
-
-影迷：https://jihulab.com/clear1/yingmi/-/raw/main/xh.txt
+http://www.饭太硬.com/tv/
+http://ok321.top/tv
 
 ========================================LIVE======================================== 
 https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt
