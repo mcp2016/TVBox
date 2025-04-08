@@ -717,5 +717,12 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
+    ],
+    "parses":[
+        {"name":"七七云","type":0,"url":"https://jx.77flv.cc/?url="},
+        {"name":"咸鱼云","type":0,"url":"https://jx.xymp4.cc/?url="},
+        {"name":"大米云","type":0,"url":"https://jx.dmflv.cc/?url="},
+        {"name":"M1907","type":0,"url":"https://im1907.top/?jx="},
+        {"name":"PlayerJY","type":0,"url":"https://jx.playerjy.com/?url="}
     ]
 }
