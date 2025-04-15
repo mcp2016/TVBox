@@ -691,9 +691,9 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "鹏九直播(惜染)",
+            "name": "鹏九直播(彩虹)",
             "type": 0,
-            "url": "https://mpimg.cn/down.php/602c6f4ea1da88dd2aba5e9c43d4459a.txt",
+            "url": "https://cccimg.com/down.php/23d8520a88f863747a0a737d893bd1e5.txt",
             "playerType": 1,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
