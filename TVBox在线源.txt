@@ -3,127 +3,62 @@ http://www.饭太硬.com/tv/
 http://ok321.top/tv
 
 ========================================LIVE======================================== 
-https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt
-https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/aikanTV.txt
-
-精选IPV6源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-BESTV源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-SXG源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
-YQGD源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
-4K/8K源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
-MSP源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
-BigBigGrandG源：https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
-APTV IPv6：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-APTV 回放测试源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
-YanG Gather：https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-Meroser精选IPV6源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
-YueChan IPv6：https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-whpsky-IPV6：https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u
-whpsky-ChinaTVM3u：https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
-whpsky-ChinaTVTxt：https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
-zbefine-m3u：https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-zbefine-txt：https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
-茶客：https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-乌云：https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
-AILE-TV：https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u
-TVradio：https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
-
-4K/8K源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
-BESTV源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
-GHYX源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u
-SXG-IPV6源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
-爱尚源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u
-CQYX源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u
-ITOUCH源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u
-YQGD源：https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
-APTV IPv6：https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-APTV 回放测试源：https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
-YanG Gather：https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-whpsky-IPV6：https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u
-whpsky-ChinaTVM3u：https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
-whpsky-ChinaTVTxt：https://ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
-zbefine-m3u：https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
-zbefine-txt：https://ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
-YueChan IPv6：https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-范明明 IPv6：https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-范明明 Global：https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u
-ZHG IPv6：https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/IPV6_IPTV.m3u
-ZHG Playlist：https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/playlist.m3u
-ZHG CNTV：https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/CNTV.m3u
-ZHG SamsungTVPlus：https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/SamsungTVPlus.m3u
-ZHG EdemTV：https://ghproxy.com/https://raw.githubusercontent.com/zhanghongguang/zhanghongguang.github.io/main/EdemTV.m3u
-茶客：https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
-乌云：https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
-AILE-TV：https://ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u
-TVradio：https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
-
-https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
-https://gitlab.com/tvtg/vip/-/raw/main/log.txt
-https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718114949789/tv.txt
-https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt
-https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt
-https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt
-https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt
-https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt
-http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0
-https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
-http://yydf.540734621.xyz/wx/zb/chunyingzhibo.txt
-https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt
-https://ghproxy.net/https://raw.githubusercontent.com/guot55/yg/main/lib/live.ipv6.txt
-https://ghproxy.net/raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-http://home.jundie.top:81/Cat/tv/live.txt
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/zb/测试.txt
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-https://m3u.ibert.me/ycl_iptv.m3u
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-http://itvbox.cc/云星日记/Ipv4.txt
-http://我不是.肥猫.live/TV/tvzb.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-http://mywlkj.ddns.net:5212/f/EErCL/%E5%8F%B0%E6%B9%BE%E7%94%B5%E8%A7%86TV.txt
-http://gg.gg/cctvgg
-http://rihou.cc:567/gggg.nzk
-http://rihou.cc:567/cctvgg
-http://ko.952788.filegear-sg.me/v4.php
-https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt
-http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=1718628795
-http://ttkx.live:55/lib/kx2024.txt
-http://mhq.aibao.us.kg/IPTV.m3u
-http://www.52sw.top:678/play/oj1381/list.php?get=159&t=1718666957
-https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master
-http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9&t=1718666901
-http://www.52sw.top:678/play/oj1381/list.php?get=159%E6%AC%A7%E5%8D%8E&t=1718666978
-http://mhq.best6.eu.org/gddx.txt
-https://fm1077.serv00.net/anbo/
-http://www.52sw.top:678/play/cqtv.php?output=channel_list
-http://ko.952788.filegear-sg.me/sm.txt
-http://www.52sw.top:678/iptv/zjyd.txt
-http://rihou.cc:555/qtsd
-https://7220.kstore.space/晴天.txt
-http://tvkj.top/tvlive.txt
-https://dimaston.github.io/live.m3u
-https://6396.kstore.space/vip/木鱼live.m3u
-https://d.kstore.space/download/6396/vip/99live.m3u
-https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u
-http://mywlkj.ddns.net:5212/f/pW3sk/iptv.txt
-https://6396.kstore.space/vip/阳阳pv6.m3u
-https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u
-https://103.115.40.138:6164/down/k4Aj0TlH3wax
-https://notabug.org/kan314/dd/raw/main/0426hua159.txt
-https://yubox.xyz/live.txt
-https://dpaste.org/FGsWR/raw
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-http://www.lyyytv.cn/yt/zhibo/1.txt
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
-https://www.huichunniao.cn/xh/lib/live.txt
-https://tv1.lan2wan.top/live.txt
-http://meowtv.top/zb
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/zb/测试.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 http://我不是.摸鱼儿.top/live.php
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u
+https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1718114949789/tv.txt
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
+https://dimaston.github.io/live.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+http://yydf.540734621.xyz/wx/zb/chunyingzhibo.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
+http://www.lyyytv.cn/yt/zhibo/1.txt
+http://mhq.best6.eu.org/gddx.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+https://6396.kstore.space/vip/阳阳pv6.m3u
+https://6396.kstore.space/vip/木鱼live.m3u
+https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u
+https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt
+https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+http://home.jundie.top:81/Cat/tv/live.txt
+https://7220.kstore.space/晴天.txt
+https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u
+https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
+https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master
+https://raw.gitcode.com/wang2023-JX/TVBox/raw/main/aikanTV.txt
+https://tv1.lan2wan.top/live.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u
+http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0
+https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://gitlab.com/tvtg/vip/-/raw/main/log.txt
+http://itvbox.cc/云星日记/Ipv4.txt
+https://dpaste.org/FGsWR/raw
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+http://tvkj.top/tvlive.txt
+https://jihulab.com/wekh/tvshow/-/raw/main/APTV.txt
+https://notabug.org/kan314/dd/raw/main/0426hua159.txt
+https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 
 ========================================EPG 节目单======================================== 
 http://epg.112114.xyz/?ch={name}&date={date}
