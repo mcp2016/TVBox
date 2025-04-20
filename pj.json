@@ -1,5 +1,5 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744303415778/f0411.txt;md5;2c6500c44ee7e7b915f8c0afb0723e50",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745100884482/f0419a.txt;md5;ec3afd8dd9fce6c22718672546dc00a8",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -163,17 +163,6 @@
             "changeable": 1
         },
         {
-            "key": "溢彩",
-            "name": "💡流光┃秒播",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA=="
-        },
-        {
             "key": "比特",
             "name": "🍄比特┃手机",
             "type": 3,
@@ -228,17 +217,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
-        },
-        {
-            "key": "神车",
-            "name": "🐻小熊┃秒播",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS8oz/VnNfnxigtaMviCwldcRBVvSwnsuM5MM4OgfA64zPRJJ0UnjpsuU0yDQ=="
         },
         {
             "key": "欢视",
@@ -454,6 +432,19 @@
             "style": {
                 "type": "rect",
                 "ratio": 3.8
+            }
+        },
+        {
+            "key": "PanSso",
+            "name": "🐌盘他┃三盘",
+            "type": 3,
+            "api": "csp_PanSsoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
