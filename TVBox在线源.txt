@@ -74,14 +74,6 @@ https://epg.pw/xmltv.html?lang=zh-hant
 方法二：基础设置->数据管理->配置导入->远端导入---地址[https://zy.catni.cn/api/config.json]->导入
 3.3.2后版本建议使用 基础设置->数据管理->配置导入->远端导入---地址[https://zy.catni.cn/api/config_v3.json]->导入
 
-http://itvbox.cc/zyplayer/云星日记.json
+https://cdn.jsdelivr.net/gh/chao921125/source@6.4.1/zyfun/index.json
 http://xiaoguozitv.cn/catys/zyplay.json
-https://fastly.jsdelivr.net/gh/ls125781003/dmtg@main/zy_yuan.json
-https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json
-https://ghproxy.com/https://raw.githubusercontent.com/ls125781003/dmtg/main/zy_yuan.json
-https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main/Sites/Sites.json
-https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
 https://raw.gitcode.com/msdfx/01/raw/main/zy3.3.4
-https://nxfk.store/config.json
-
-https://cdn.jsdelivr.net/gh/cuiocean/ZY-Player-Resources@main//Recommendations/Recommendations.json
