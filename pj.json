@@ -1,5 +1,5 @@
 {
-    "spider": "https://oss4liview.moji.com/thd_file/2025/10/21/98a4dc6f4576915ba19f381f5789e262.jpg;md5;ae66555429c1a4e321617ddbb1caa7f3",
+    "spider": "https://oss4liview.moji.com/thd_file/2025/10/27/2265e06f34db117bc6df05047dd4aa91.jpg;md5;1acb683fd1fb4f2c0492747745f6229a",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -38,8 +38,7 @@
             "changeable": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.com/"
+                "from": "4k|auto"
             }
         },
         {
@@ -101,6 +100,16 @@
             "changeable": 1
         },
         {
+            "key": "苹果",
+            "name": "🍎苹果┃秒播",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "文采",
             "name": "💮文采┃秒播",
             "type": 3,
@@ -112,18 +121,8 @@
             "changeable": 1
         },
         {
-            "key": "比特",
-            "name": "🍄比特┃秒播",
-            "type": 3,
-            "api": "csp_BttwooGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "原创",
-            "name": "☀原创┃不卡",
+            "name": "☀原创┃秒播",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 30,
@@ -133,10 +132,10 @@
             "changeable": 1
         },
         {
-            "key": "苹果",
-            "name": "🍎苹果┃不卡",
+            "key": "比特",
+            "name": "🍄比特┃秒播",
             "type": 3,
-            "api": "csp_LiteAppleGuard",
+            "api": "csp_BttwooGuard",
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
@@ -226,8 +225,7 @@
             "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.com/"
+            "changeable": 1
         },
         {
             "key": "荐片",
@@ -432,47 +430,22 @@
             }
         },
         {
-            "key": "PanSso",
-            "name": "🐌盘他┃三盘",
+            "key": "YiSo",
+            "name": "😹易搜┃三盘",
             "type": 3,
-            "api": "csp_PanSsoGuard",
+            "api": "csp_YiSoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "YpanSo",
-            "name": "🐟盘她┃三盘",
-            "type": 3,
-            "api": "csp_YpanSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "xzso",
-            "name": "👻盘它┃三盘",
-            "type": 3,
-            "api": "csp_XzsoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
+                "from": "4k|auto",
+                "yisouCookie": "150e5bb8-401e-4f1f-b74e-7fd5f8bd6dea"
             }
         },
         {
             "key": "米搜",
-            "name": "🦋米搜┃夸父",
+            "name": "🦋米搜┃优夸",
             "type": 3,
             "api": "csp_MIPanSoGuard",
             "searchable": 1,
@@ -484,10 +457,23 @@
             }
         },
         {
-            "key": "YiSo",
-            "name": "😹易搜┃阿狸",
+            "key": "xzso",
+            "name": "👻盘他┃夸父",
             "type": 3,
-            "api": "csp_YiSoGuard",
+            "api": "csp_XzsoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "YpanSo",
+            "name": "🐟盘她┃夸父",
+            "type": 3,
+            "api": "csp_YpanSoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -624,7 +610,7 @@
         {
             "name": "V4-develop202",
             "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
