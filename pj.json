@@ -1,9 +1,9 @@
 {
-    "spider": "https://oss4liview.moji.com/thd_file/2025/12/02/4b0d03929039f1dc476a88a31d316efa.jpg;md5;6b0051c85a0e72a480f4bec56b8dd22f",
+    "spider": "https://oss4liview.moji.com/thd_file/2025/12/12/b83407761373998be1a32e9c8a53230d.jpg;md5;3962e9dbce2c7b61a53b1b796f098d47",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "豆",
+            "key": "豆豆",
             "name": "🦅鹏九",
             "type": 3,
             "api": "csp_DouDouGuard",
@@ -13,7 +13,7 @@
             "changeable": 0
         },
         {
-            "key": "Drive",
+            "key": "MDrive",
             "name": "🗂我的云盘┃我配置",
             "type": 3,
             "api": "csp_MyDriveGuard",
@@ -172,7 +172,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
+            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+        },
+        {
+            "key": "猫猫",
+            "name": "🐟猫猫┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwtCFsub0/WmdmYi/k2NkJsm7Vk4dJQZft2UtrrwhKK52i/dDilKkU5Nz+V0bwkYsVuU="
         },
         {
             "key": "鲸鱼",
@@ -596,7 +607,7 @@
             }
         }
     ],
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a3cb3f8553ca2d67/1.5873679404696913E9.gif",
+    "logo": "https://img.imgdd.com/50871bc3-ff7a-46be-b4be-de69b5af241e.gif",
     "lives": [
         {
             "name": "冰茶",
@@ -654,7 +665,7 @@
             "name": "鹏九直播",
             "type": 0,
             "url": "https://mcp2016.github.io/TVBox/lives.txt",
-            "playerType": 1,
+            "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -662,7 +673,7 @@
             "name": "鹏九直播(彩虹)",
             "type": 0,
             "url": "https://cccimg.com/down.php/23d8520a88f863747a0a737d893bd1e5.txt",
-            "playerType": 1,
+            "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -670,9 +681,16 @@
             "name": "iptv-api",
             "type": 0,
             "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt",
-            "playerType": 1,
+            "playerType": 2,
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "iptvindex",
+            "type": 0,
+            "url": "https://iptvindex.com/tv.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
     "parses":[
