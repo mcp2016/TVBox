@@ -3,6 +3,10 @@
 		{
 			"sourceName": "🦅鹏九多仓",
 			"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
+		},
+		{
+			"sourceName": "iptvindex多仓",
+			"sourceUrl": "https://iptvindex.com/db.json"
 		}
 	]
 }
