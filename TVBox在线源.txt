@@ -1,6 +1,11 @@
 ========================================数据源========================================
-http://www.饭太硬.com/tv/
+http://www.饭太硬.com/tv
+https://8815.kstore.vip/tvbox/Ace
 http://ok321.top/tv
+http://fty.333232.xyz/tv
+https://肥猫.com
+http://我不是.摸鱼儿.top
+http://yydsok.com/api/bendi/yydsapi/nf/api.json
 
 ========================================LIVE======================================== 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u
