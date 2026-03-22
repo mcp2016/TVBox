@@ -1,5 +1,5 @@
 {
-    "spider": "https://oss4liview.moji.com/thd_file/2026/03/01/d0120b0bceb0c421be3e4ce4afede46f.jpg;md5;daa01b2330c9adab32eb5fa2e93fd955",
+    "spider": "https://oss4liview.moji.com/thd_file/2026/03/16/50a9c8c5e7874ca0102df30d6ba99cc7.jpg;md5;c067633ea703159709d6c4e522c3dae5",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -211,7 +211,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2Fu+P28G+ZmI+4lWJhI8G1X0oOORAJ9GV87aJ0e7pS1MRysGWZdpZOyWEwqycyCv8/EM/eovjVCCnyVL/Snb60T3H52VBwcwQWv43+HUeuF84cUpc9shojUwGrQqGljWWfTbQzjT8lV03wOBqSlbdOG+4zvmJFFepNRIsydhdA3eyrx7Xu+jopSKU/b8CRWR3IF9mcj/jfvoHHQdOcaitScnIxBX5xb/Ngs8dPV3J59b4ewfJJh30="
+            "ext": "rfOK0+FRORAJ7epFxdCFsq+gvTWZ1sP1yzpkeoroQVYOZVlfpWUluKg1buFZwtJ5rmyCc81Gmm8l/S04Vu07Edyx+PjaCDPgGfSG1ve0CzC7jwVkfQQLo9y7UE+9AtYPEY8lpWxXXwC1UL7i2kusEoYCxR40Vyz9QmHpksg7b5U7tmhKauIyMPI5ch4925OnzLKU/z0oQKs+F7juVxq2btae9f6uxIvGO6vuYiIsDQYxD3QEYPwfysw7LXt18bYZyfVH5j58+aDT5YAg96GEDm/zFmU9W/3k"
         },
         {
             "key": "视界",
@@ -222,7 +222,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu0M"
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lW1mJ8e9VkIZMxpf6yxk9eNgZeUKz9l6vG2AL9VW3yh5q3FzA/wpUpTepO7CAiOuXKzelf2sV2b60VJyZQ4c7I3yAHyrRYVMAIs7oWhSSxa1C/H+wUGqBoQSlUU0XDL4MGXtkM5EHJ48u2NNH+U1Pv1GfmQ7ppajv8uagjhQT99Ear/lIRTCEdnnivvUu4/ORKGXbVsrdHlKDXIKZ/UYt8NAIwJ+jbIWy/tPmzV3/anX5P9b8NX9cWX6Hm9RHA=="
+        },
+        {
+            "key": "花花",
+            "name": "🥝花花┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
         },
         {
             "key": "播客",
@@ -233,18 +244,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SDcz8rnlT83d5z3FhMaeEUUqDo3pqx1fbpMycIs9SKEeN0FligzxT55OaAlO5qM0+WFfzCsCLA="
-        },
-        {
-            "key": "猫猫",
-            "name": "🐟猫猫┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuStr2HSytK11WwwcM/+XB8SbkBB4XYk/L52LroCiYRhoDrRLJ4ZkCh5q2RxCb5yUs6B5aCQVGSkR6zDgKLrFSDulg=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+S/Cz8j6xik9ZIrwCw8aZkEOtiQw5qNif+ZRw904uGiCZNFRz3ln6nh5Q+MpBtKR7qqNWW29HLnLhP2+VzitkkZ8ZUoM7cL9GEb2WY8EAcZvrj9BQRzpGe6zjRHoRY8="
         },
         {
             "key": "爱影",
@@ -255,7 +255,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxu3v"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzsmBOA4Uobe87udCDvyT6nSxuqjBjOinAoodBQAqNy7UE+qFZ1UBoc16Q=="
+        },
+        {
+            "key": "猫猫",
+            "name": "🐟猫猫┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TXe0NPv1yt7LM60XkwYLA1No3EluLI1d/gV1t5vq2+PaJZO0X8y4XhhFKorB8fL8quaRzegVrmV3P39FC7u1UYsIlVb07zwEm/4Hc0/c9s1snJBF1/lWqakhRaj"
         },
         {
             "key": "奥特",
@@ -456,19 +467,6 @@
             }
         },
         {
-            "key": "YiSo",
-            "name": "😹易搜┃三盘",
-            "type": 3,
-            "api": "csp_YiSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "yiSoCookie": "satoken=4437cb8c-a260-411b-9a0d-1fa622ab422f"
-            }
-        },
-        {
             "key": "米搜",
             "name": "🦋米搜┃优夸",
             "type": 3,
@@ -616,19 +614,20 @@
     ],
     "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
     "hosts": [
-        "img1.wsyzy.org=danmu.888484.xyz"
+        "img1.wsyzy.org=danmu.888484.xyz",
+        "fiizvfck.top=danmu.888484.xyz"
     ],
     "lives": [
         {
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
             "name": "develop202",
             "type": 0,
-            "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2,
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
