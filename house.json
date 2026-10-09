@@ -5,12 +5,24 @@
 			"sourceUrl": "https://mcp2016.github.io/TVBox/urls.json"
 		},
 		{
-			"sourceName": "小盒子多仓",
-			"sourceUrl": "http://xhztv.top/dc"
-		},
-		{
 			"sourceName": "iptvindex多仓",
 			"sourceUrl": "https://iptvindex.com/db.json"
+		},
+		{
+			"sourceName": "小盒子多仓（备）",
+			"sourceUrl": "http://xhztv.top/DC.txt"
+		},
+		{
+			"sourceName": "挺好分享多仓",
+			"sourceUrl": "http://ztha.top/TVBox/GYCK.json"
+		},
+		{
+			"sourceName": "拾光多仓",
+			"sourceUrl": "http://xmbjm.fh4u.org/dc.txt"
+		},
+		{
+			"sourceName": "小盒子多仓",
+			"sourceUrl": "http://xhztv.top/dc"
 		}
 	]
 }

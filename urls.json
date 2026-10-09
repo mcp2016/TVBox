@@ -7,6 +7,14 @@
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "🍚饭太硬"
+        },
+        {
+            "name": "短剧频道",
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+        },
+        {
+            "name": "少儿频道",
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
         }
     ]
 }
