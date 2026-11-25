@@ -1,5 +1,5 @@
 {
-    "spider": "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669",
+    "spider": "https://xiuxiu-pro-new.meitudata.com/posters/554e1b7b2e64ade4ffab3d1c9881890f.jpg;md5;9966f0c40f3a7f2cd351ecedf642e067",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
     "sites": [
         {
@@ -50,6 +50,22 @@
             "changeable": 0
         },
         {
+            "key": "alllive",
+            "name": "🎮一直播┃直播",
+            "type": 3,
+            "api": "csp_AllliveGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
+        },
+        {
             "key": "MTV1",
             "name": "🎙️易听┃音乐",
             "type": 3,
@@ -64,6 +80,20 @@
             "changeable": 0
         },
         {
+            "key": "爱刷",
+            "name": "♻️爱刷┃短视",
+            "type": 3,
+            "api": "csp_SsspGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "ext": {}
+        },
+        {
             "key": "seed",
             "name": "💡聚剧┃四盘",
             "type": 3,
@@ -73,6 +103,26 @@
             "quickSearch": 1,
             "changeable": 0,
             "indexs": 0
+        },
+        {
+            "key": "粤迷",
+            "name": "🦊粤迷┃港剧",
+            "type": 3,
+            "api": "csp_MaiDuiDuiGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "韩剧",
+            "name": "🐱韩迷┃外剧",
+            "type": 3,
+            "api": "csp_HanquanGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "光影",
@@ -85,34 +135,12 @@
             "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
         },
         {
-            "key": "原创",
-            "name": "👒原创┃不卡",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "厂长",
             "name": "📔厂长┃不卡",
             "type": 3,
             "api": "csp_NewCzGuard",
             "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "海绵",
-            "name": "🐬海绵┃不卡",
-            "type": 3,
-            "api": "csp_HmysGuard",
-            "timeout": 10,
-            "playerType": "2",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -137,7 +165,6 @@
             "type": 3,
             "api": "csp_AppgzGuard",
             "timeout": 15,
-            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -148,6 +175,19 @@
             "type": 3,
             "api": "csp_BttwooGuard",
             "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "花生",
+            "name": "🥜花生┃不卡",
+            "type": 3,
+            "api": "csp_HuashuGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -168,7 +208,7 @@
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 10,
-            "playerType": 2,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -181,7 +221,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+            "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4jq3i8iepe3AAlFJlcJ8nEyo7U0Zv5Ly99uvDeRbsAQwngm4DhwCew4GZ2NpO2FWja5GbiLw/2+VyOxmwVkfRMWv532AlCkEM0DUsYlqgFBirI7micJVqtVVd5RVO+OjoFt49RYjdpcwCGzZNf2zleAXOBerYWUBBYiHAcv4i9IkhbqtQRBgq93D8T/VUpyZg15mh4icjAzq6HJ3fKftkmNq95YguHZLzKbGEDahyxvIgNARifYJxRobH3iyvXchGcLgar0MU56i0oTeFRc6ThjWvJdYRkG14ULZ/+nBcQncXy23jGsvADOGlYoPtpPQAOccjnT9Q0UrQssrFfhyMAynhd5nlPX67OibRK1YBs1pV05B3ICXao4njVgOB+AbpZJjwAw7tkjLocnQhq0w5RxREH/1j8YpssxtJO1ADlPtR7A3GILhxMcEc1KgJy+LBzmZL7G+vYG3T++qkSKO6V2QFdgRLTCpSHJ"
+        },
+        {
+            "key": "剧迷",
+            "name": "🍊橘猫┃多线",
+            "type": 3,
+            "api": "csp_JumiTvGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "热播",
@@ -189,33 +239,23 @@
             "type": 3,
             "api": "csp_AppTTGuard",
             "timeout": 10,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "视界",
-            "name": "🌸茉莉┃多线",
+            "key": "风云",
+            "name": "☁️风云┃多线",
             "type": 3,
-            "api": "csp_App99Guard",
-            "timeout": 10,
-            "searchable": 1,
+            "api": "csp_FyGuard",
+            "ext": {
+                "type": "video",
+                "name": "Fy"
+            },
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
-        },
-        {
-            "key": "剧圈",
-            "name": "🐻剧圈┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+            "changeable": 1
         },
         {
             "key": "荐片",
@@ -223,7 +263,6 @@
             "type": 3,
             "api": "csp_JPJGuard",
             "timeout": 10,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
@@ -251,7 +290,7 @@
         },
         {
             "key": "AiDj",
-            "name": "❤️AI┃短漫剧",
+            "name": "❤️AI剧┃弹幕",
             "type": 3,
             "api": "csp_AiDjGuard",
             "ext": {
@@ -263,17 +302,6 @@
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "咕咕",
-            "name": "🦉咕咕┃动漫",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
         },
         {
             "key": "Dm84",
@@ -322,22 +350,6 @@
             }
         },
         {
-            "key": "alllive",
-            "name": "🎮一直播┃直播",
-            "type": 3,
-            "api": "csp_AllliveGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "timeout": 15,
-            "playerType": "2",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
-        },
-        {
             "key": "MTV",
             "name": "🎶明星┃MV",
             "type": 3,
@@ -357,7 +369,7 @@
             "key": "有声小说",
             "name": "🎧有声┃小说",
             "type": 3,
-            "api": "csp_Tingshu275Guard",
+            "api": "csp_YueTingGuard",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -383,8 +395,8 @@
             "key": "虎牙js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -399,8 +411,8 @@
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -527,8 +539,8 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -602,30 +614,14 @@
             }
         }
     ],
-    "rules": [
-        {
-            "name": "cdn.ryplay",
-            "hosts": [
-                "cdn.ryplay"
-            ],
-            "regex": [
-                "5.480000",
-                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:5.480000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\s*\r?\n#EXTINF:5.320000,\\s*\r?\n.+\\.ts\\s*\r?\n(?:#EXTINF:[\\d.]+,\\s*\r?\n.+\\.ts\\s*\r?\n)*?#EXTINF:3.360000,\\s*\r?\n.+\\.ts\\s*\r?\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\s*\r?\n#EXTINF:4.000000,\\s*\r?\n.+\\.ts\\s*\r?\n(?:#EXTINF:[\\d.]+,\\s*\r?\n.+\\.ts\\s*\r?\n)*?#EXTINF:0.560000,\\s*\r?\n.+\\.ts\\s*\r?\n#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        }
-    ],
     "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
     "hosts": [
-        "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-        "fiizvfck.top=fan.cloudflare.182682.xyz",
-        "images.67c6c7a.com=fan.cloudflare.182682.xyz"
+        "fiizvfck.top=cmcc.vvvv.ee",
+        "sub.ottiptv.cc=cmcc.vvvv.ee"
     ],
     "lives": [
         {
-            "name": "综合直播",
+            "name": "综合",
             "type": 0,
             "url": "http://193.123.86.190:14888/TV/iptv.php",
             "ua": "bingcha/1.1 (mianfeifenxiang)",
@@ -635,12 +631,6 @@
             "name": "Kimentanm",
             "type": 0,
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "playerType": 2
-        },
-        {
-            "name": "范明明（需开启V6网络）",
-            "type": 0,
-            "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
             "playerType": 2
         }
     ],
